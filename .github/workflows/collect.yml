@@ -22,10 +22,13 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Install dependencies
+        run: npm install
+
       - name: Run collector
-        working-directory: collector
         run: npm run collect
         env:
+          BLS_API_KEY: ${{ secrets.BLS_API_KEY }}
           OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
           SEC_EDGAR_USER_AGENT_EMAIL: ${{ secrets.SEC_EDGAR_USER_AGENT_EMAIL }}
 
@@ -33,7 +36,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add collector/observatory.json
+          git add observatory.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
