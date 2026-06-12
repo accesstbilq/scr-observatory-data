@@ -1,0 +1,13 @@
+{
+  "name": "supply-chain-observatory-collector",
+  "version": "1.0.0",
+  "description": "Collects supply chain industry data from public APIs into observatory.json",
+  "private": true,
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "collect": "node src/collect.js"
+  }
+}
