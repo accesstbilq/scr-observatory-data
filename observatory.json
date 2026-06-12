@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T08:09:06.246Z",
+  "generated_at": "2026-06-12T09:03:23.307Z",
   "sources": {
     "bls": {
       "name": "Bureau of Labor Statistics",
@@ -32,7 +32,498 @@
       "update_freq": "biennial"
     }
   },
-  "labor_market": {},
+  "labor_market": {
+    "warehouse_employment": [
+      {
+        "date": "2026-05",
+        "value": 1842.4
+      },
+      {
+        "date": "2026-04",
+        "value": 1836
+      },
+      {
+        "date": "2026-03",
+        "value": 1832.5
+      },
+      {
+        "date": "2026-02",
+        "value": 1831.1
+      },
+      {
+        "date": "2026-01",
+        "value": 1830.4
+      },
+      {
+        "date": "2025-12",
+        "value": 1836.2
+      },
+      {
+        "date": "2025-11",
+        "value": 1842
+      },
+      {
+        "date": "2025-10",
+        "value": 1839.9
+      },
+      {
+        "date": "2025-09",
+        "value": 1853.4
+      },
+      {
+        "date": "2025-08",
+        "value": 1869.4
+      },
+      {
+        "date": "2025-07",
+        "value": 1869.3
+      },
+      {
+        "date": "2025-06",
+        "value": 1871.9
+      },
+      {
+        "date": "2025-05",
+        "value": 1875.3
+      },
+      {
+        "date": "2025-04",
+        "value": 1881.3
+      },
+      {
+        "date": "2025-03",
+        "value": 1880.8
+      },
+      {
+        "date": "2025-02",
+        "value": 1883.4
+      },
+      {
+        "date": "2025-01",
+        "value": 1881.2
+      },
+      {
+        "date": "2024-12",
+        "value": 1881.2
+      },
+      {
+        "date": "2024-11",
+        "value": 1877.6
+      },
+      {
+        "date": "2024-10",
+        "value": 1873.1
+      },
+      {
+        "date": "2024-09",
+        "value": 1871
+      },
+      {
+        "date": "2024-08",
+        "value": 1870.7
+      },
+      {
+        "date": "2024-07",
+        "value": 1871.1
+      },
+      {
+        "date": "2024-06",
+        "value": 1865.3
+      }
+    ],
+    "warehouse_hourly_wage": [
+      {
+        "date": "2026-04",
+        "value": 26.62
+      },
+      {
+        "date": "2026-03",
+        "value": 26.6
+      },
+      {
+        "date": "2026-02",
+        "value": 26.55
+      },
+      {
+        "date": "2026-01",
+        "value": 26.49
+      },
+      {
+        "date": "2025-12",
+        "value": 26.21
+      },
+      {
+        "date": "2025-11",
+        "value": 26.19
+      },
+      {
+        "date": "2025-10",
+        "value": 26.07
+      },
+      {
+        "date": "2025-09",
+        "value": 25.75
+      },
+      {
+        "date": "2025-08",
+        "value": 25.67
+      },
+      {
+        "date": "2025-07",
+        "value": 25.55
+      },
+      {
+        "date": "2025-06",
+        "value": 25.5
+      },
+      {
+        "date": "2025-05",
+        "value": 25.46
+      },
+      {
+        "date": "2025-04",
+        "value": 25.4
+      },
+      {
+        "date": "2025-03",
+        "value": 25.23
+      },
+      {
+        "date": "2025-02",
+        "value": 25.06
+      },
+      {
+        "date": "2025-01",
+        "value": 24.99
+      },
+      {
+        "date": "2024-12",
+        "value": 24.84
+      },
+      {
+        "date": "2024-11",
+        "value": 24.79
+      },
+      {
+        "date": "2024-10",
+        "value": 24.74
+      },
+      {
+        "date": "2024-09",
+        "value": 24.71
+      },
+      {
+        "date": "2024-08",
+        "value": 24.78
+      },
+      {
+        "date": "2024-07",
+        "value": 24.64
+      },
+      {
+        "date": "2024-06",
+        "value": 24.67
+      },
+      {
+        "date": "2024-05",
+        "value": 24.66
+      }
+    ],
+    "truck_employment": [
+      {
+        "date": "2026-05",
+        "value": 1464.8
+      },
+      {
+        "date": "2026-04",
+        "value": 1469.2
+      },
+      {
+        "date": "2026-03",
+        "value": 1464.3
+      },
+      {
+        "date": "2026-02",
+        "value": 1465.1
+      },
+      {
+        "date": "2026-01",
+        "value": 1465.6
+      },
+      {
+        "date": "2025-12",
+        "value": 1467.2
+      },
+      {
+        "date": "2025-11",
+        "value": 1467.8
+      },
+      {
+        "date": "2025-10",
+        "value": 1472.6
+      },
+      {
+        "date": "2025-09",
+        "value": 1472.3
+      },
+      {
+        "date": "2025-08",
+        "value": 1480.2
+      },
+      {
+        "date": "2025-07",
+        "value": 1482.5
+      },
+      {
+        "date": "2025-06",
+        "value": 1482.7
+      },
+      {
+        "date": "2025-05",
+        "value": 1487.7
+      },
+      {
+        "date": "2025-04",
+        "value": 1490.6
+      },
+      {
+        "date": "2025-03",
+        "value": 1491.4
+      },
+      {
+        "date": "2025-02",
+        "value": 1487.6
+      },
+      {
+        "date": "2025-01",
+        "value": 1493.1
+      },
+      {
+        "date": "2024-12",
+        "value": 1494.8
+      },
+      {
+        "date": "2024-11",
+        "value": 1497.1
+      },
+      {
+        "date": "2024-10",
+        "value": 1497.7
+      },
+      {
+        "date": "2024-09",
+        "value": 1501.3
+      },
+      {
+        "date": "2024-08",
+        "value": 1502.3
+      },
+      {
+        "date": "2024-07",
+        "value": 1505.7
+      },
+      {
+        "date": "2024-06",
+        "value": 1511.6
+      }
+    ],
+    "transport_job_openings": [
+      {
+        "date": "2026-04",
+        "value": 335
+      },
+      {
+        "date": "2026-03",
+        "value": 301
+      },
+      {
+        "date": "2026-02",
+        "value": 298
+      },
+      {
+        "date": "2026-01",
+        "value": 311
+      },
+      {
+        "date": "2025-12",
+        "value": 296
+      },
+      {
+        "date": "2025-11",
+        "value": 268
+      },
+      {
+        "date": "2025-10",
+        "value": 412
+      },
+      {
+        "date": "2025-09",
+        "value": 305
+      },
+      {
+        "date": "2025-08",
+        "value": 339
+      },
+      {
+        "date": "2025-07",
+        "value": 342
+      },
+      {
+        "date": "2025-06",
+        "value": 305
+      },
+      {
+        "date": "2025-05",
+        "value": 312
+      },
+      {
+        "date": "2025-04",
+        "value": 267
+      },
+      {
+        "date": "2025-03",
+        "value": 264
+      },
+      {
+        "date": "2025-02",
+        "value": 322
+      },
+      {
+        "date": "2025-01",
+        "value": 327
+      },
+      {
+        "date": "2024-12",
+        "value": 342
+      },
+      {
+        "date": "2024-11",
+        "value": 303
+      },
+      {
+        "date": "2024-10",
+        "value": 329
+      },
+      {
+        "date": "2024-09",
+        "value": 285
+      },
+      {
+        "date": "2024-08",
+        "value": 342
+      },
+      {
+        "date": "2024-07",
+        "value": 274
+      },
+      {
+        "date": "2024-06",
+        "value": 374
+      },
+      {
+        "date": "2024-05",
+        "value": 336
+      }
+    ],
+    "transport_quits_rate": [
+      {
+        "date": "2026-04",
+        "value": 2.1
+      },
+      {
+        "date": "2026-03",
+        "value": 2.5
+      },
+      {
+        "date": "2026-02",
+        "value": 2.2
+      },
+      {
+        "date": "2026-01",
+        "value": 1.9
+      },
+      {
+        "date": "2025-12",
+        "value": 2.1
+      },
+      {
+        "date": "2025-11",
+        "value": 2.1
+      },
+      {
+        "date": "2025-10",
+        "value": 2.1
+      },
+      {
+        "date": "2025-09",
+        "value": 2.3
+      },
+      {
+        "date": "2025-08",
+        "value": 2
+      },
+      {
+        "date": "2025-07",
+        "value": 2
+      },
+      {
+        "date": "2025-06",
+        "value": 2.6
+      },
+      {
+        "date": "2025-05",
+        "value": 2.2
+      },
+      {
+        "date": "2025-04",
+        "value": 1.8
+      },
+      {
+        "date": "2025-03",
+        "value": 2.1
+      },
+      {
+        "date": "2025-02",
+        "value": 2.5
+      },
+      {
+        "date": "2025-01",
+        "value": 2.2
+      },
+      {
+        "date": "2024-12",
+        "value": 2.1
+      },
+      {
+        "date": "2024-11",
+        "value": 2.3
+      },
+      {
+        "date": "2024-10",
+        "value": 2.2
+      },
+      {
+        "date": "2024-09",
+        "value": 2
+      },
+      {
+        "date": "2024-08",
+        "value": 2
+      },
+      {
+        "date": "2024-07",
+        "value": 2.7
+      },
+      {
+        "date": "2024-06",
+        "value": 2.2
+      },
+      {
+        "date": "2024-05",
+        "value": 2.1
+      }
+    ]
+  },
   "economic_indices": {
     "transport_services_index": [
       {
@@ -1059,129 +1550,13 @@
       }
     ]
   },
-  "corporate_filings": {
-    "supply_chain_disruption": [
-      {
-        "year": 2024,
-        "count": 2370
-      },
-      {
-        "year": 2025,
-        "count": 1942
-      },
-      {
-        "year": 2026,
-        "count": 1103
-      }
-    ],
-    "warehouse_automation": [
-      {
-        "year": 2024,
-        "count": 180
-      },
-      {
-        "year": 2025,
-        "count": 176
-      },
-      {
-        "year": 2026,
-        "count": 87
-      }
-    ],
-    "supply_chain_technology": [
-      {
-        "year": 2024,
-        "count": 425
-      },
-      {
-        "year": 2025,
-        "count": 327
-      },
-      {
-        "year": 2026,
-        "count": 165
-      }
-    ],
-    "inventory_management": [
-      {
-        "year": 2024,
-        "count": 214
-      },
-      {
-        "year": 2025,
-        "count": 189
-      },
-      {
-        "year": 2026,
-        "count": 92
-      }
-    ],
-    "robotics_fulfillment": [
-      {
-        "year": 2024,
-        "count": 5
-      },
-      {
-        "year": 2025,
-        "count": 5
-      },
-      {
-        "year": 2026,
-        "count": 0
-      }
-    ],
-    "labor_shortage_warehouse": [
-      {
-        "year": 2024,
-        "count": 0
-      },
-      {
-        "year": 2025,
-        "count": 0
-      },
-      {
-        "year": 2026,
-        "count": 0
-      }
-    ]
-  },
-  "trade_flows": {
-    "lifting_handling_machinery": [
-      {
-        "year": 2020,
-        "value": 4755092948
-      },
-      {
-        "year": 2021,
-        "value": 6058469634
-      },
-      {
-        "year": 2022,
-        "value": 7640482105
-      },
-      {
-        "year": 2023,
-        "value": 7606913890
-      }
-    ],
-    "individual_function_machines": [
-      {
-        "year": 2020,
-        "value": 8453227727
-      },
-      {
-        "year": 2021,
-        "value": 10354236818
-      },
-      {
-        "year": 2022,
-        "value": 12035899621
-      },
-      {
-        "year": 2023,
-        "value": 13009537769
-      }
-    ]
-  },
-  "logistics_performance": {}
+  "corporate_filings": {},
+  "trade_flows": {},
+  "logistics_performance": {
+    "overall": [],
+    "customs": [],
+    "infrastructure": [],
+    "tracking": [],
+    "timeliness": []
+  }
 }
