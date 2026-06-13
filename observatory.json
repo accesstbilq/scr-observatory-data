@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T09:03:23.307Z",
+  "generated_at": "2026-06-13T09:28:11.622Z",
   "sources": {
     "bls": {
       "name": "Bureau of Labor Statistics",
@@ -1288,11 +1288,11 @@
       },
       {
         "year": 2022,
-        "count": 14412
+        "count": 14414
       },
       {
         "year": 2023,
-        "count": 16924
+        "count": 16925
       },
       {
         "year": 2024,
@@ -1300,11 +1300,11 @@
       },
       {
         "year": 2025,
-        "count": 18263
+        "count": 18265
       },
       {
         "year": 2026,
-        "count": 9475
+        "count": 9569
       }
     ],
     "outsourcing_scm": [
@@ -1350,11 +1350,11 @@
       },
       {
         "year": 2025,
-        "count": 3130
+        "count": 3132
       },
       {
         "year": 2026,
-        "count": 1345
+        "count": 1358
       }
     ],
     "inventory_management": [
@@ -1400,11 +1400,11 @@
       },
       {
         "year": 2025,
-        "count": 5630
+        "count": 5632
       },
       {
         "year": 2026,
-        "count": 3690
+        "count": 3728
       }
     ],
     "supply_chain_resilience": [
@@ -1438,7 +1438,7 @@
       },
       {
         "year": 2022,
-        "count": 7595
+        "count": 7596
       },
       {
         "year": 2023,
@@ -1446,15 +1446,15 @@
       },
       {
         "year": 2024,
-        "count": 8683
+        "count": 8689
       },
       {
         "year": 2025,
-        "count": 13660
+        "count": 13663
       },
       {
         "year": 2026,
-        "count": 9895
+        "count": 10002
       }
     ],
     "quality_supply_mgmt": [
@@ -1488,7 +1488,7 @@
       },
       {
         "year": 2022,
-        "count": 8075
+        "count": 8076
       },
       {
         "year": 2023,
@@ -1496,25 +1496,25 @@
       },
       {
         "year": 2024,
-        "count": 10526
+        "count": 10528
       },
       {
         "year": 2025,
-        "count": 11299
+        "count": 11305
       },
       {
         "year": 2026,
-        "count": 4635
+        "count": 4678
       }
     ],
     "top_institutions": [
       {
         "name": "Centre National de la Recherche Scientifique",
-        "count": 1808
+        "count": 1809
       },
       {
         "name": "Islamic Azad University, Tehran",
-        "count": 1338
+        "count": 1340
       },
       {
         "name": "Hong Kong Polytechnic University",
@@ -1534,7 +1534,7 @@
       },
       {
         "name": "Politecnico di Milano",
-        "count": 780
+        "count": 781
       },
       {
         "name": "Tsinghua University",
@@ -1551,7 +1551,44 @@
     ]
   },
   "corporate_filings": {},
-  "trade_flows": {},
+  "trade_flows": {
+    "lifting_handling_machinery": [
+      {
+        "year": 2020,
+        "value": 4755092948
+      },
+      {
+        "year": 2021,
+        "value": 6058469634
+      },
+      {
+        "year": 2022,
+        "value": 7640482105
+      },
+      {
+        "year": 2023,
+        "value": 7606913890
+      }
+    ],
+    "individual_function_machines": [
+      {
+        "year": 2020,
+        "value": 8453227727
+      },
+      {
+        "year": 2021,
+        "value": 10354236818
+      },
+      {
+        "year": 2022,
+        "value": 12035899621
+      },
+      {
+        "year": 2023,
+        "value": 13009537769
+      }
+    ]
+  },
   "logistics_performance": {
     "overall": [],
     "customs": [],
