@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T12:35:58.383Z",
+  "generated_at": "2026-06-16T08:55:45.388Z",
   "sources": {
     "bls": {
       "name": "Bureau of Labor Statistics",
@@ -819,10 +819,6 @@
     ],
     "industrial_production_mfg": [
       {
-        "date": "2023-05",
-        "value": 97.5956
-      },
-      {
         "date": "2023-06",
         "value": 96.9217
       },
@@ -944,23 +940,27 @@
       },
       {
         "date": "2025-12",
-        "value": 97.0606
+        "value": 96.9857
       },
       {
         "date": "2026-01",
-        "value": 97.6553
+        "value": 97.1193
       },
       {
         "date": "2026-02",
-        "value": 98.0219
+        "value": 97.7446
       },
       {
         "date": "2026-03",
-        "value": 98.0696
+        "value": 97.8758
       },
       {
         "date": "2026-04",
-        "value": 98.6729
+        "value": 98.587
+      },
+      {
+        "date": "2026-05",
+        "value": 98.6353
       }
     ],
     "producer_price_warehousing": [
@@ -1550,8 +1550,130 @@
       }
     ]
   },
-  "corporate_filings": {},
-  "trade_flows": {},
+  "corporate_filings": {
+    "supply_chain_disruption": [
+      {
+        "year": 2024,
+        "count": 2370
+      },
+      {
+        "year": 2025,
+        "count": 1942
+      },
+      {
+        "year": 2026,
+        "count": 1115
+      }
+    ],
+    "warehouse_automation": [
+      {
+        "year": 2024,
+        "count": 180
+      },
+      {
+        "year": 2025,
+        "count": 176
+      },
+      {
+        "year": 2026,
+        "count": 89
+      }
+    ],
+    "supply_chain_technology": [
+      {
+        "year": 2024,
+        "count": 425
+      },
+      {
+        "year": 2025,
+        "count": 327
+      },
+      {
+        "year": 2026,
+        "count": 166
+      }
+    ],
+    "inventory_management": [
+      {
+        "year": 2024,
+        "count": 214
+      },
+      {
+        "year": 2025,
+        "count": 189
+      },
+      {
+        "year": 2026,
+        "count": 92
+      }
+    ],
+    "robotics_fulfillment": [
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 0
+      }
+    ],
+    "labor_shortage_warehouse": [
+      {
+        "year": 2024,
+        "count": 0
+      },
+      {
+        "year": 2025,
+        "count": 0
+      },
+      {
+        "year": 2026,
+        "count": 0
+      }
+    ]
+  },
+  "trade_flows": {
+    "lifting_handling_machinery": [
+      {
+        "year": 2020,
+        "value": 4755092948
+      },
+      {
+        "year": 2021,
+        "value": 6058469634
+      },
+      {
+        "year": 2022,
+        "value": 7640482105
+      },
+      {
+        "year": 2023,
+        "value": 7606913890
+      }
+    ],
+    "individual_function_machines": [
+      {
+        "year": 2020,
+        "value": 8453227727
+      },
+      {
+        "year": 2021,
+        "value": 10354236818
+      },
+      {
+        "year": 2022,
+        "value": 12035899621
+      },
+      {
+        "year": 2023,
+        "value": 13009537769
+      }
+    ]
+  },
   "logistics_performance": {
     "overall": [],
     "customs": [],
