@@ -13,10 +13,16 @@ const COMTRADE_YEARS = [2020, 2021, 2022, 2023];
 const REPORTER_CODE = '842'; // USA
 const PARTNER_CODE = '0'; // World
 const FLOW_CODE = 'M'; // Imports
+const MAX_RETRIES = 3;
+const REQUEST_DELAY_MS = 1000;
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
 
 /**
  * Fetch import trade value for a single HS code and year.
- * Returns null if no data is available for that year.
+ * Returns a value object; on transient failures it falls back to 0.
  */
 async function fetchComtradeYear(hsCode, year) {
   const params = new URLSearchParams({
@@ -29,22 +35,28 @@ async function fetchComtradeYear(hsCode, year) {
   });
 
   const url = `${COMTRADE_BASE_URL}?${params.toString()}`;
-  const res = await fetch(url);
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt += 1) {
+    try {
+      const res = await fetch(url);
+      if (!res.ok) {
+        const isRetryable = res.status === 429 || res.status >= 500;
+        if (!isRetryable || attempt === MAX_RETRIES) {
+          return { year, value: 0 };
+        }
+        await sleep(REQUEST_DELAY_MS * attempt);
+        continue;
+      }
 
-  if (!res.ok) {
-    throw new Error(`UN Comtrade request failed for HS ${hsCode} (${year}): HTTP ${res.status} (${url})`);
+      const json = await res.json();
+      const value = json?.data?.[0]?.primaryValue;
+      return { year, value: typeof value === 'number' ? value : 0 };
+    } catch (err) {
+      if (attempt === MAX_RETRIES) {
+        return { year, value: 0 };
+      }
+      await sleep(REQUEST_DELAY_MS * attempt);
+    }
   }
-
-  const json = await res.json();
-
-  if (!json.data || json.data.length === 0) {
-    return null;
-  }
-
-  return {
-    year,
-    value: json.data[0].primaryValue,
-  };
 }
 
 /**
@@ -58,10 +70,7 @@ async function collectTradeFlows() {
 
     for (const year of COMTRADE_YEARS) {
       const entry = await fetchComtradeYear(hsCode, year);
-
-      if (entry) {
-        result[key].push(entry);
-      }
+      result[key].push(entry);
     }
   }
 

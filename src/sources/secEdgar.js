@@ -13,8 +13,9 @@ const SEC_KEYWORDS = {
 };
 
 const SEC_BASE_URL = 'https://efts.sec.gov/LATEST/search-index';
-const REQUEST_DELAY_MS = 150;
+const REQUEST_DELAY_MS = 1500;
 const SEARCH_YEARS = [2024, 2025, 2026];
+const MAX_RETRIES = 5;
 
 function getUserAgent() {
   const email = process.env.SEC_EDGAR_USER_AGENT_EMAIL || 'contact@supplychainresearch.com';
@@ -43,20 +44,40 @@ async function fetchKeywordYearCount(keyword, year) {
 
   const url = `${SEC_BASE_URL}?q=${encodeURIComponent(query)}&dateRange=custom&startdt=${startdt}&enddt=${enddt}`;
 
-  const res = await fetch(url, {
-    headers: {
-      'User-Agent': getUserAgent(),
-    },
-  });
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt += 1) {
+    try {
+      const res = await fetch(url, {
+        headers: {
+          'User-Agent': getUserAgent(),
+          Accept: 'application/json',
+          Referer: 'https://www.sec.gov/',
+        },
+      });
 
-  if (!res.ok) {
-    throw new Error(`SEC EDGAR request failed for "${keyword}" (${year}): HTTP ${res.status} (${url})`);
+      if (!res.ok) {
+        const isRetryable = res.status === 429 || res.status >= 500;
+        if (!isRetryable || attempt === MAX_RETRIES) {
+          return { year, count: 0 };
+        }
+        await sleep(attempt * 2000);
+        continue;
+      }
+
+      const json = await res.json();
+      if (typeof json?.hits?.total?.value === 'number') {
+        return { year, count: json.hits.total.value };
+      }
+      if (typeof json?.hits?.total === 'number') {
+        return { year, count: json.hits.total };
+      }
+      return { year, count: 0 };
+    } catch (err) {
+      if (attempt === MAX_RETRIES) {
+        return { year, count: 0 };
+      }
+      await sleep(attempt * 2000);
+    }
   }
-
-  const json = await res.json();
-  const count = json?.hits?.total?.value ?? 0;
-
-  return { year, count };
 }
 
 /**
