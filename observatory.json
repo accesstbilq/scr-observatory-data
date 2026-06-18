@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T11:15:20.462Z",
+  "generated_at": "2026-06-18T10:42:59.853Z",
   "sources": {
     "bls": {
       "name": "Bureau of Labor Statistics",
@@ -673,10 +673,6 @@
     ],
     "inventory_sales_ratio": [
       {
-        "date": "2023-04",
-        "value": 1.42
-      },
-      {
         "date": "2023-05",
         "value": 1.42
       },
@@ -815,6 +811,10 @@
       {
         "date": "2026-03",
         "value": 1.32
+      },
+      {
+        "date": "2026-04",
+        "value": 1.31
       }
     ],
     "industrial_production_mfg": [
@@ -1304,7 +1304,7 @@
       },
       {
         "year": 2026,
-        "count": 9884
+        "count": 9887
       }
     ],
     "outsourcing_scm": [
@@ -1504,7 +1504,7 @@
       },
       {
         "year": 2026,
-        "count": 4855
+        "count": 4856
       }
     ],
     "top_institutions": [
@@ -1526,7 +1526,7 @@
       },
       {
         "name": "Chinese Academy of Sciences",
-        "count": 1087
+        "count": 1088
       },
       {
         "name": "University of London",
@@ -1576,7 +1576,7 @@
       },
       {
         "year": 2026,
-        "count": 89
+        "count": 90
       }
     ],
     "supply_chain_technology": [
@@ -1604,7 +1604,7 @@
       },
       {
         "year": 2026,
-        "count": 92
+        "count": 93
       }
     ],
     "robotics_fulfillment": [
