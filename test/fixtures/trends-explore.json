@@ -1,0 +1,14 @@
+{
+  "widgets": [
+    {
+      "id": "TIMESERIES",
+      "token": "test-token",
+      "request": {
+        "time": "today 5-y",
+        "resolution": "WEEK",
+        "locale": "en-US",
+        "comparisonItem": [{ "keyword": "Warehouse Management", "geo": "US", "time": "today 5-y" }]
+      }
+    }
+  ]
+}

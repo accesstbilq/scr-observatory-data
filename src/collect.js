@@ -16,6 +16,7 @@ const { collectResearchTrends } = require('./sources/openalex');
 const { collectCorporateFilings } = require('./sources/secEdgar');
 const { collectTradeFlows } = require('./sources/comtrade');
 const { collectLogisticsPerformance } = require('./sources/worldBank');
+const { collectSearchTrends } = require('./sources/googleTrends');
 
 const SOURCES_META = {
   bls: {
@@ -48,6 +49,11 @@ const SOURCES_META = {
     url: 'https://lpi.worldbank.org',
     update_freq: 'biennial',
   },
+  google_trends: {
+    name: 'Google Trends',
+    url: 'https://trends.google.com',
+    update_freq: 'weekly',
+  },
 };
 
 const COLLECTORS = [
@@ -78,7 +84,14 @@ async function runCollector({ name, key, collect, fallback }) {
 async function main() {
   console.log('Supply Chain Observatory — starting collection\n');
 
-  const results = await Promise.all(COLLECTORS.map(runCollector));
+  const parallelResults = await Promise.all(COLLECTORS.map(runCollector));
+  const trendsResult = await runCollector({
+    name: 'Google Trends',
+    key: 'search_trends',
+    collect: collectSearchTrends,
+    fallback: {},
+  });
+  const results = [...parallelResults, trendsResult];
 
   const sections = {};
   const summary = { succeeded: [], failed: [] };
@@ -102,13 +115,14 @@ async function main() {
     corporate_filings: sections.corporate_filings,
     trade_flows: sections.trade_flows,
     logistics_performance: sections.logistics_performance,
+    search_trends: sections.search_trends,
   };
 
   const outPath = path.join(__dirname, '..', 'observatory.json');
   fs.writeFileSync(outPath, JSON.stringify(observatory, null, 2));
 
   console.log('\n--- Summary ---');
-  console.log(`Succeeded: ${summary.succeeded.length}/${COLLECTORS.length}`);
+  console.log(`Succeeded: ${summary.succeeded.length}/${COLLECTORS.length + 1}`);
   if (summary.succeeded.length > 0) {
     console.log(`  ${summary.succeeded.join(', ')}`);
   }

@@ -8,6 +8,7 @@
     "node": ">=18"
   },
   "scripts": {
-    "collect": "node src/collect.js"
+    "collect": "node src/collect.js",
+    "test": "node --test test/**/*.test.js"
   }
 }

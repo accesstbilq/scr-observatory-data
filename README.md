@@ -33,6 +33,7 @@ This writes `observatory.json` to the project root with:
 - `corporate_filings` — SEC EDGAR keyword filing counts by year
 - `trade_flows` — UN Comtrade US import values for automation machinery
 - `logistics_performance` — World Bank LPI scores by country
+- `search_trends` — Google Trends US search interest (5-year) for SCM topics
 
 If a source fails, that section is written as an empty object and a warning is logged; other sources still complete.
 
@@ -46,6 +47,7 @@ If a source fails, that section is written as an empty object and a warning is l
 | **SEC EDGAR** | Max ~10 req/sec; requires descriptive `User-Agent`. Script uses 150ms delay between calls (18 total). |
 | **UN Comtrade** | Public preview API; 8 calls per run. Annual data may lag. |
 | **World Bank** | Open API; 5 calls per run. LPI is updated biennially. |
+| **Google Trends** | Unofficial API; 6 keywords, ~2s delay between each. May fail from datacenter IPs (CI). |
 
 ## Scheduling
 
@@ -59,4 +61,4 @@ For a VPS cron job:
 
 ## Output schema
 
-Top-level keys: `generated_at`, `sources`, `labor_market`, `economic_indices`, `research_trends`, `corporate_filings`, `trade_flows`, `logistics_performance`.
+Top-level keys: `generated_at`, `sources`, `labor_market`, `economic_indices`, `research_trends`, `corporate_filings`, `trade_flows`, `logistics_performance`, `search_trends`.
