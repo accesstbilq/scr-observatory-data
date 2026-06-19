@@ -10,6 +10,11 @@ const GOOGLE_TERMS = {
   supply_chain_planning: 'Supply Chain Planning',
   yard_management: 'Yard Management',
   manufacturing: 'Manufacturing',
+  supply_chain_disruption: "supply chain disruption",
+  warehouse_automation: "warehouse automation",
+  inventory_management: "inventory management",
+  supply_chain_resilience: "supply chain resilience",
+  robotics_fulfillment: "robotics fulfillment",
 };
 
 const TRENDS_USER_AGENT =
