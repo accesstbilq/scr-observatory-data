@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T10:06:33.073Z",
+  "generated_at": "2026-08-04T08:53:08.817Z",
   "sources": {
     "bls": {
       "name": "Bureau of Labor Statistics",
@@ -532,10 +532,6 @@
   "economic_indices": {
     "transport_services_index": [
       {
-        "date": "2023-05",
-        "value": 136.8
-      },
-      {
         "date": "2023-06",
         "value": 137
       },
@@ -565,15 +561,15 @@
       },
       {
         "date": "2024-01",
-        "value": 135.2
+        "value": 135
       },
       {
         "date": "2024-02",
-        "value": 136.7
+        "value": 136.6
       },
       {
         "date": "2024-03",
-        "value": 136.6
+        "value": 136.7
       },
       {
         "date": "2024-04",
@@ -581,7 +577,7 @@
       },
       {
         "date": "2024-05",
-        "value": 138.6
+        "value": 138.7
       },
       {
         "date": "2024-06",
@@ -593,7 +589,7 @@
       },
       {
         "date": "2024-08",
-        "value": 138.9
+        "value": 138.8
       },
       {
         "date": "2024-09",
@@ -605,7 +601,7 @@
       },
       {
         "date": "2024-11",
-        "value": 137
+        "value": 137.1
       },
       {
         "date": "2024-12",
@@ -613,15 +609,15 @@
       },
       {
         "date": "2025-01",
-        "value": 137.8
+        "value": 137.6
       },
       {
         "date": "2025-02",
-        "value": 136.9
+        "value": 136.8
       },
       {
         "date": "2025-03",
-        "value": 137.5
+        "value": 137.6
       },
       {
         "date": "2025-04",
@@ -629,7 +625,7 @@
       },
       {
         "date": "2025-05",
-        "value": 136.9
+        "value": 137.1
       },
       {
         "date": "2025-06",
@@ -641,7 +637,7 @@
       },
       {
         "date": "2025-08",
-        "value": 139.1
+        "value": 139
       },
       {
         "date": "2025-09",
@@ -649,11 +645,11 @@
       },
       {
         "date": "2025-10",
-        "value": 136.6
+        "value": 136.7
       },
       {
         "date": "2025-11",
-        "value": 137.1
+        "value": 137.2
       },
       {
         "date": "2025-12",
@@ -661,19 +657,23 @@
       },
       {
         "date": "2026-01",
-        "value": 136.2
+        "value": 136.1
       },
       {
         "date": "2026-02",
-        "value": 138.5
+        "value": 138.3
       },
       {
         "date": "2026-03",
-        "value": 139.2
+        "value": 139.3
       },
       {
         "date": "2026-04",
-        "value": 139.6
+        "value": 138.5
+      },
+      {
+        "date": "2026-05",
+        "value": 136.7
       }
     ],
     "inventory_sales_ratio": [
@@ -1265,15 +1265,15 @@
     "sustainable_supply_chain": [
       {
         "year": 2015,
-        "count": 6707
+        "count": 6708
       },
       {
         "year": 2016,
-        "count": 7000
+        "count": 6999
       },
       {
         "year": 2017,
-        "count": 7628
+        "count": 7629
       },
       {
         "year": 2018,
@@ -1305,11 +1305,11 @@
       },
       {
         "year": 2025,
-        "count": 18827
+        "count": 18829
       },
       {
         "year": 2026,
-        "count": 13589
+        "count": 13625
       }
     ],
     "outsourcing_scm": [
@@ -1359,7 +1359,7 @@
       },
       {
         "year": 2026,
-        "count": 2147
+        "count": 2151
       }
     ],
     "inventory_management": [
@@ -1385,7 +1385,7 @@
       },
       {
         "year": 2020,
-        "count": 4725
+        "count": 4726
       },
       {
         "year": 2021,
@@ -1409,7 +1409,7 @@
       },
       {
         "year": 2026,
-        "count": 5407
+        "count": 5420
       }
     ],
     "supply_chain_resilience": [
@@ -1455,11 +1455,11 @@
       },
       {
         "year": 2025,
-        "count": 14241
+        "count": 14242
       },
       {
         "year": 2026,
-        "count": 14193
+        "count": 14230
       }
     ],
     "quality_supply_mgmt": [
@@ -1469,11 +1469,11 @@
       },
       {
         "year": 2016,
-        "count": 11322
+        "count": 11320
       },
       {
         "year": 2017,
-        "count": 11766
+        "count": 11768
       },
       {
         "year": 2018,
@@ -1497,25 +1497,25 @@
       },
       {
         "year": 2023,
-        "count": 9433
+        "count": 9432
       },
       {
         "year": 2024,
-        "count": 10717
+        "count": 10718
       },
       {
         "year": 2025,
-        "count": 11960
+        "count": 11965
       },
       {
         "year": 2026,
-        "count": 7059
+        "count": 7083
       }
     ],
     "top_institutions": [
       {
         "name": "Centre National de la Recherche Scientifique",
-        "count": 1893
+        "count": 1894
       },
       {
         "name": "Islamic Azad University, Tehran",
@@ -1567,7 +1567,7 @@
       },
       {
         "year": 2026,
-        "count": 1279
+        "count": 1292
       }
     ],
     "warehouse_automation": [
@@ -1581,7 +1581,7 @@
       },
       {
         "year": 2026,
-        "count": 103
+        "count": 104
       }
     ],
     "supply_chain_technology": [
@@ -1679,998 +1679,24 @@
       }
     ]
   },
-  "logistics_performance": {},
+  "logistics_performance": {
+    "overall": [],
+    "customs": [],
+    "infrastructure": [],
+    "tracking": [],
+    "timeliness": []
+  },
   "search_trends": {
     "warehouse_management": [],
-    "transportation_management": [
-      {
-        "date": "2021-08",
-        "value": 13
-      },
-      {
-        "date": "2021-09",
-        "value": 15
-      },
-      {
-        "date": "2021-10",
-        "value": 17
-      },
-      {
-        "date": "2021-11",
-        "value": 17
-      },
-      {
-        "date": "2021-12",
-        "value": 13
-      },
-      {
-        "date": "2022-01",
-        "value": 16
-      },
-      {
-        "date": "2022-02",
-        "value": 19
-      },
-      {
-        "date": "2022-03",
-        "value": 18
-      },
-      {
-        "date": "2022-04",
-        "value": 20
-      },
-      {
-        "date": "2022-05",
-        "value": 17
-      },
-      {
-        "date": "2022-06",
-        "value": 15
-      },
-      {
-        "date": "2022-07",
-        "value": 15
-      },
-      {
-        "date": "2022-08",
-        "value": 17
-      },
-      {
-        "date": "2022-09",
-        "value": 19
-      },
-      {
-        "date": "2022-10",
-        "value": 18
-      },
-      {
-        "date": "2022-11",
-        "value": 18
-      },
-      {
-        "date": "2022-12",
-        "value": 15
-      },
-      {
-        "date": "2023-01",
-        "value": 17
-      },
-      {
-        "date": "2023-02",
-        "value": 20
-      },
-      {
-        "date": "2023-03",
-        "value": 19
-      },
-      {
-        "date": "2023-04",
-        "value": 20
-      },
-      {
-        "date": "2023-05",
-        "value": 18
-      },
-      {
-        "date": "2023-06",
-        "value": 16
-      },
-      {
-        "date": "2023-07",
-        "value": 16
-      },
-      {
-        "date": "2023-08",
-        "value": 17
-      },
-      {
-        "date": "2023-09",
-        "value": 20
-      },
-      {
-        "date": "2023-10",
-        "value": 21
-      },
-      {
-        "date": "2023-11",
-        "value": 19
-      },
-      {
-        "date": "2023-12",
-        "value": 16
-      },
-      {
-        "date": "2024-01",
-        "value": 20
-      },
-      {
-        "date": "2024-02",
-        "value": 23
-      },
-      {
-        "date": "2024-03",
-        "value": 23
-      },
-      {
-        "date": "2024-04",
-        "value": 24
-      },
-      {
-        "date": "2024-05",
-        "value": 20
-      },
-      {
-        "date": "2024-06",
-        "value": 18
-      },
-      {
-        "date": "2024-07",
-        "value": 19
-      },
-      {
-        "date": "2024-08",
-        "value": 20
-      },
-      {
-        "date": "2024-09",
-        "value": 22
-      },
-      {
-        "date": "2024-10",
-        "value": 23
-      },
-      {
-        "date": "2024-11",
-        "value": 24
-      },
-      {
-        "date": "2024-12",
-        "value": 19
-      },
-      {
-        "date": "2025-01",
-        "value": 22
-      },
-      {
-        "date": "2025-02",
-        "value": 28
-      },
-      {
-        "date": "2025-03",
-        "value": 28
-      },
-      {
-        "date": "2025-04",
-        "value": 30
-      },
-      {
-        "date": "2025-05",
-        "value": 27
-      },
-      {
-        "date": "2025-06",
-        "value": 36
-      },
-      {
-        "date": "2025-07",
-        "value": 44
-      },
-      {
-        "date": "2025-08",
-        "value": 49
-      },
-      {
-        "date": "2025-09",
-        "value": 55
-      },
-      {
-        "date": "2025-10",
-        "value": 59
-      },
-      {
-        "date": "2025-11",
-        "value": 56
-      },
-      {
-        "date": "2025-12",
-        "value": 40
-      },
-      {
-        "date": "2026-01",
-        "value": 63
-      },
-      {
-        "date": "2026-02",
-        "value": 93
-      },
-      {
-        "date": "2026-03",
-        "value": 72
-      },
-      {
-        "date": "2026-04",
-        "value": 75
-      },
-      {
-        "date": "2026-05",
-        "value": 76
-      },
-      {
-        "date": "2026-06",
-        "value": 86
-      },
-      {
-        "date": "2026-07",
-        "value": 44
-      },
-      {
-        "date": "2026-08",
-        "value": 17
-      }
-    ],
+    "transportation_management": [],
     "order_management": [],
     "supply_chain_planning": [],
     "yard_management": [],
     "manufacturing": [],
     "supply_chain_disruption": [],
-    "warehouse_automation": [
-      {
-        "date": "2021-08",
-        "value": 6
-      },
-      {
-        "date": "2021-09",
-        "value": 10
-      },
-      {
-        "date": "2021-10",
-        "value": 10
-      },
-      {
-        "date": "2021-11",
-        "value": 9
-      },
-      {
-        "date": "2021-12",
-        "value": 8
-      },
-      {
-        "date": "2022-01",
-        "value": 6
-      },
-      {
-        "date": "2022-02",
-        "value": 6
-      },
-      {
-        "date": "2022-03",
-        "value": 6
-      },
-      {
-        "date": "2022-04",
-        "value": 7
-      },
-      {
-        "date": "2022-05",
-        "value": 6
-      },
-      {
-        "date": "2022-06",
-        "value": 7
-      },
-      {
-        "date": "2022-07",
-        "value": 8
-      },
-      {
-        "date": "2022-08",
-        "value": 7
-      },
-      {
-        "date": "2022-09",
-        "value": 7
-      },
-      {
-        "date": "2022-10",
-        "value": 6
-      },
-      {
-        "date": "2022-11",
-        "value": 7
-      },
-      {
-        "date": "2022-12",
-        "value": 7
-      },
-      {
-        "date": "2023-01",
-        "value": 8
-      },
-      {
-        "date": "2023-02",
-        "value": 8
-      },
-      {
-        "date": "2023-03",
-        "value": 7
-      },
-      {
-        "date": "2023-04",
-        "value": 8
-      },
-      {
-        "date": "2023-05",
-        "value": 6
-      },
-      {
-        "date": "2023-06",
-        "value": 6
-      },
-      {
-        "date": "2023-07",
-        "value": 7
-      },
-      {
-        "date": "2023-08",
-        "value": 6
-      },
-      {
-        "date": "2023-09",
-        "value": 8
-      },
-      {
-        "date": "2023-10",
-        "value": 8
-      },
-      {
-        "date": "2023-11",
-        "value": 6
-      },
-      {
-        "date": "2023-12",
-        "value": 6
-      },
-      {
-        "date": "2024-01",
-        "value": 8
-      },
-      {
-        "date": "2024-02",
-        "value": 9
-      },
-      {
-        "date": "2024-03",
-        "value": 7
-      },
-      {
-        "date": "2024-04",
-        "value": 8
-      },
-      {
-        "date": "2024-05",
-        "value": 5
-      },
-      {
-        "date": "2024-06",
-        "value": 6
-      },
-      {
-        "date": "2024-07",
-        "value": 5
-      },
-      {
-        "date": "2024-08",
-        "value": 8
-      },
-      {
-        "date": "2024-09",
-        "value": 7
-      },
-      {
-        "date": "2024-10",
-        "value": 8
-      },
-      {
-        "date": "2024-11",
-        "value": 7
-      },
-      {
-        "date": "2024-12",
-        "value": 6
-      },
-      {
-        "date": "2025-01",
-        "value": 9
-      },
-      {
-        "date": "2025-02",
-        "value": 11
-      },
-      {
-        "date": "2025-03",
-        "value": 11
-      },
-      {
-        "date": "2025-04",
-        "value": 15
-      },
-      {
-        "date": "2025-05",
-        "value": 14
-      },
-      {
-        "date": "2025-06",
-        "value": 24
-      },
-      {
-        "date": "2025-07",
-        "value": 27
-      },
-      {
-        "date": "2025-08",
-        "value": 33
-      },
-      {
-        "date": "2025-09",
-        "value": 51
-      },
-      {
-        "date": "2025-10",
-        "value": 37
-      },
-      {
-        "date": "2025-11",
-        "value": 56
-      },
-      {
-        "date": "2025-12",
-        "value": 34
-      },
-      {
-        "date": "2026-01",
-        "value": 47
-      },
-      {
-        "date": "2026-02",
-        "value": 56
-      },
-      {
-        "date": "2026-03",
-        "value": 75
-      },
-      {
-        "date": "2026-04",
-        "value": 77
-      },
-      {
-        "date": "2026-05",
-        "value": 83
-      },
-      {
-        "date": "2026-06",
-        "value": 83
-      },
-      {
-        "date": "2026-07",
-        "value": 41
-      },
-      {
-        "date": "2026-08",
-        "value": 13
-      }
-    ],
-    "inventory_management": [
-      {
-        "date": "2021-08",
-        "value": 20
-      },
-      {
-        "date": "2021-09",
-        "value": 22
-      },
-      {
-        "date": "2021-10",
-        "value": 27
-      },
-      {
-        "date": "2021-11",
-        "value": 26
-      },
-      {
-        "date": "2021-12",
-        "value": 20
-      },
-      {
-        "date": "2022-01",
-        "value": 21
-      },
-      {
-        "date": "2022-02",
-        "value": 26
-      },
-      {
-        "date": "2022-03",
-        "value": 26
-      },
-      {
-        "date": "2022-04",
-        "value": 27
-      },
-      {
-        "date": "2022-05",
-        "value": 23
-      },
-      {
-        "date": "2022-06",
-        "value": 22
-      },
-      {
-        "date": "2022-07",
-        "value": 23
-      },
-      {
-        "date": "2022-08",
-        "value": 21
-      },
-      {
-        "date": "2022-09",
-        "value": 22
-      },
-      {
-        "date": "2022-10",
-        "value": 23
-      },
-      {
-        "date": "2022-11",
-        "value": 22
-      },
-      {
-        "date": "2022-12",
-        "value": 20
-      },
-      {
-        "date": "2023-01",
-        "value": 21
-      },
-      {
-        "date": "2023-02",
-        "value": 22
-      },
-      {
-        "date": "2023-03",
-        "value": 22
-      },
-      {
-        "date": "2023-04",
-        "value": 23
-      },
-      {
-        "date": "2023-05",
-        "value": 19
-      },
-      {
-        "date": "2023-06",
-        "value": 18
-      },
-      {
-        "date": "2023-07",
-        "value": 22
-      },
-      {
-        "date": "2023-08",
-        "value": 18
-      },
-      {
-        "date": "2023-09",
-        "value": 22
-      },
-      {
-        "date": "2023-10",
-        "value": 24
-      },
-      {
-        "date": "2023-11",
-        "value": 23
-      },
-      {
-        "date": "2023-12",
-        "value": 19
-      },
-      {
-        "date": "2024-01",
-        "value": 22
-      },
-      {
-        "date": "2024-02",
-        "value": 26
-      },
-      {
-        "date": "2024-03",
-        "value": 27
-      },
-      {
-        "date": "2024-04",
-        "value": 28
-      },
-      {
-        "date": "2024-05",
-        "value": 20
-      },
-      {
-        "date": "2024-06",
-        "value": 20
-      },
-      {
-        "date": "2024-07",
-        "value": 20
-      },
-      {
-        "date": "2024-08",
-        "value": 20
-      },
-      {
-        "date": "2024-09",
-        "value": 24
-      },
-      {
-        "date": "2024-10",
-        "value": 27
-      },
-      {
-        "date": "2024-11",
-        "value": 25
-      },
-      {
-        "date": "2024-12",
-        "value": 21
-      },
-      {
-        "date": "2025-01",
-        "value": 25
-      },
-      {
-        "date": "2025-02",
-        "value": 31
-      },
-      {
-        "date": "2025-03",
-        "value": 32
-      },
-      {
-        "date": "2025-04",
-        "value": 33
-      },
-      {
-        "date": "2025-05",
-        "value": 33
-      },
-      {
-        "date": "2025-06",
-        "value": 39
-      },
-      {
-        "date": "2025-07",
-        "value": 45
-      },
-      {
-        "date": "2025-08",
-        "value": 43
-      },
-      {
-        "date": "2025-09",
-        "value": 53
-      },
-      {
-        "date": "2025-10",
-        "value": 44
-      },
-      {
-        "date": "2025-11",
-        "value": 47
-      },
-      {
-        "date": "2025-12",
-        "value": 39
-      },
-      {
-        "date": "2026-01",
-        "value": 58
-      },
-      {
-        "date": "2026-02",
-        "value": 91
-      },
-      {
-        "date": "2026-03",
-        "value": 69
-      },
-      {
-        "date": "2026-04",
-        "value": 74
-      },
-      {
-        "date": "2026-05",
-        "value": 75
-      },
-      {
-        "date": "2026-06",
-        "value": 90
-      },
-      {
-        "date": "2026-07",
-        "value": 48
-      },
-      {
-        "date": "2026-08",
-        "value": 50
-      }
-    ],
-    "supply_chain_resilience": [
-      {
-        "date": "2021-08",
-        "value": 0
-      },
-      {
-        "date": "2021-09",
-        "value": 0
-      },
-      {
-        "date": "2021-10",
-        "value": 0
-      },
-      {
-        "date": "2021-11",
-        "value": 1
-      },
-      {
-        "date": "2021-12",
-        "value": 0
-      },
-      {
-        "date": "2022-01",
-        "value": 1
-      },
-      {
-        "date": "2022-02",
-        "value": 0
-      },
-      {
-        "date": "2022-03",
-        "value": 3
-      },
-      {
-        "date": "2022-04",
-        "value": 2
-      },
-      {
-        "date": "2022-05",
-        "value": 1
-      },
-      {
-        "date": "2022-06",
-        "value": 0
-      },
-      {
-        "date": "2022-07",
-        "value": 0
-      },
-      {
-        "date": "2022-08",
-        "value": 0
-      },
-      {
-        "date": "2022-09",
-        "value": 1
-      },
-      {
-        "date": "2022-10",
-        "value": 1
-      },
-      {
-        "date": "2022-11",
-        "value": 1
-      },
-      {
-        "date": "2022-12",
-        "value": 2
-      },
-      {
-        "date": "2023-01",
-        "value": 1
-      },
-      {
-        "date": "2023-02",
-        "value": 4
-      },
-      {
-        "date": "2023-03",
-        "value": 2
-      },
-      {
-        "date": "2023-04",
-        "value": 3
-      },
-      {
-        "date": "2023-05",
-        "value": 0
-      },
-      {
-        "date": "2023-06",
-        "value": 1
-      },
-      {
-        "date": "2023-07",
-        "value": 1
-      },
-      {
-        "date": "2023-08",
-        "value": 1
-      },
-      {
-        "date": "2023-09",
-        "value": 3
-      },
-      {
-        "date": "2023-10",
-        "value": 1
-      },
-      {
-        "date": "2023-11",
-        "value": 4
-      },
-      {
-        "date": "2023-12",
-        "value": 1
-      },
-      {
-        "date": "2024-01",
-        "value": 2
-      },
-      {
-        "date": "2024-02",
-        "value": 3
-      },
-      {
-        "date": "2024-03",
-        "value": 2
-      },
-      {
-        "date": "2024-04",
-        "value": 3
-      },
-      {
-        "date": "2024-05",
-        "value": 1
-      },
-      {
-        "date": "2024-06",
-        "value": 0
-      },
-      {
-        "date": "2024-07",
-        "value": 1
-      },
-      {
-        "date": "2024-08",
-        "value": 1
-      },
-      {
-        "date": "2024-09",
-        "value": 0
-      },
-      {
-        "date": "2024-10",
-        "value": 5
-      },
-      {
-        "date": "2024-11",
-        "value": 3
-      },
-      {
-        "date": "2024-12",
-        "value": 1
-      },
-      {
-        "date": "2025-01",
-        "value": 3
-      },
-      {
-        "date": "2025-02",
-        "value": 8
-      },
-      {
-        "date": "2025-03",
-        "value": 4
-      },
-      {
-        "date": "2025-04",
-        "value": 8
-      },
-      {
-        "date": "2025-05",
-        "value": 7
-      },
-      {
-        "date": "2025-06",
-        "value": 11
-      },
-      {
-        "date": "2025-07",
-        "value": 23
-      },
-      {
-        "date": "2025-08",
-        "value": 18
-      },
-      {
-        "date": "2025-09",
-        "value": 16
-      },
-      {
-        "date": "2025-10",
-        "value": 16
-      },
-      {
-        "date": "2025-11",
-        "value": 33
-      },
-      {
-        "date": "2025-12",
-        "value": 30
-      },
-      {
-        "date": "2026-01",
-        "value": 43
-      },
-      {
-        "date": "2026-02",
-        "value": 62
-      },
-      {
-        "date": "2026-03",
-        "value": 68
-      },
-      {
-        "date": "2026-04",
-        "value": 77
-      },
-      {
-        "date": "2026-05",
-        "value": 77
-      },
-      {
-        "date": "2026-06",
-        "value": 83
-      },
-      {
-        "date": "2026-07",
-        "value": 36
-      },
-      {
-        "date": "2026-08",
-        "value": 14
-      }
-    ],
+    "warehouse_automation": [],
+    "inventory_management": [],
+    "supply_chain_resilience": [],
     "robotics_fulfillment": []
   }
 }
