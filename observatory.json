@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T08:53:08.817Z",
+  "generated_at": "2026-08-05T08:49:31.328Z",
   "sources": {
     "bls": {
       "name": "Bureau of Labor Statistics",
@@ -334,8 +334,12 @@
     ],
     "transport_job_openings": [
       {
+        "date": "2026-06",
+        "value": 392
+      },
+      {
         "date": "2026-05",
-        "value": 298
+        "value": 295
       },
       {
         "date": "2026-04",
@@ -424,16 +428,16 @@
       {
         "date": "2024-07",
         "value": 274
-      },
-      {
-        "date": "2024-06",
-        "value": 374
       }
     ],
     "transport_quits_rate": [
       {
+        "date": "2026-06",
+        "value": 2.4
+      },
+      {
         "date": "2026-05",
-        "value": 2.6
+        "value": 2.8
       },
       {
         "date": "2026-04",
@@ -522,10 +526,6 @@
       {
         "date": "2024-07",
         "value": 2.7
-      },
-      {
-        "date": "2024-06",
-        "value": 2.2
       }
     ]
   },
@@ -1116,10 +1116,6 @@
     ],
     "diesel_fuel_price": [
       {
-        "date": "2025-11",
-        "value": 3.831
-      },
-      {
         "date": "2025-12",
         "value": 3.758
       },
@@ -1258,6 +1254,10 @@
       {
         "date": "2026-07",
         "value": 5.313
+      },
+      {
+        "date": "2026-08",
+        "value": 5.348
       }
     ]
   },
@@ -1273,15 +1273,15 @@
       },
       {
         "year": 2017,
-        "count": 7629
+        "count": 7630
       },
       {
         "year": 2018,
-        "count": 9072
+        "count": 9071
       },
       {
         "year": 2019,
-        "count": 10193
+        "count": 10195
       },
       {
         "year": 2020,
@@ -1289,7 +1289,7 @@
       },
       {
         "year": 2021,
-        "count": 13432
+        "count": 13431
       },
       {
         "year": 2022,
@@ -1305,25 +1305,25 @@
       },
       {
         "year": 2025,
-        "count": 18829
+        "count": 18836
       },
       {
         "year": 2026,
-        "count": 13625
+        "count": 13699
       }
     ],
     "outsourcing_scm": [
       {
         "year": 2015,
-        "count": 5961
+        "count": 5960
       },
       {
         "year": 2016,
-        "count": 5402
+        "count": 5403
       },
       {
         "year": 2017,
-        "count": 5323
+        "count": 5324
       },
       {
         "year": 2018,
@@ -1331,11 +1331,11 @@
       },
       {
         "year": 2019,
-        "count": 4700
+        "count": 4701
       },
       {
         "year": 2020,
-        "count": 4293
+        "count": 4294
       },
       {
         "year": 2021,
@@ -1351,15 +1351,15 @@
       },
       {
         "year": 2024,
-        "count": 3189
+        "count": 3190
       },
       {
         "year": 2025,
-        "count": 3359
+        "count": 3358
       },
       {
         "year": 2026,
-        "count": 2151
+        "count": 2162
       }
     ],
     "inventory_management": [
@@ -1381,7 +1381,7 @@
       },
       {
         "year": 2019,
-        "count": 4762
+        "count": 4763
       },
       {
         "year": 2020,
@@ -1401,7 +1401,7 @@
       },
       {
         "year": 2024,
-        "count": 4525
+        "count": 4526
       },
       {
         "year": 2025,
@@ -1409,7 +1409,7 @@
       },
       {
         "year": 2026,
-        "count": 5420
+        "count": 5454
       }
     ],
     "supply_chain_resilience": [
@@ -1443,7 +1443,7 @@
       },
       {
         "year": 2022,
-        "count": 7715
+        "count": 7716
       },
       {
         "year": 2023,
@@ -1455,33 +1455,33 @@
       },
       {
         "year": 2025,
-        "count": 14242
+        "count": 14247
       },
       {
         "year": 2026,
-        "count": 14230
+        "count": 14326
       }
     ],
     "quality_supply_mgmt": [
       {
         "year": 2015,
-        "count": 11265
+        "count": 11264
       },
       {
         "year": 2016,
-        "count": 11320
+        "count": 11322
       },
       {
         "year": 2017,
-        "count": 11768
+        "count": 11769
       },
       {
         "year": 2018,
-        "count": 12183
+        "count": 12182
       },
       {
         "year": 2019,
-        "count": 12317
+        "count": 12318
       },
       {
         "year": 2020,
@@ -1489,11 +1489,11 @@
       },
       {
         "year": 2021,
-        "count": 9666
+        "count": 9663
       },
       {
         "year": 2022,
-        "count": 8178
+        "count": 8179
       },
       {
         "year": 2023,
@@ -1505,21 +1505,21 @@
       },
       {
         "year": 2025,
-        "count": 11965
+        "count": 11970
       },
       {
         "year": 2026,
-        "count": 7083
+        "count": 7120
       }
     ],
     "top_institutions": [
       {
         "name": "Centre National de la Recherche Scientifique",
-        "count": 1894
+        "count": 1890
       },
       {
         "name": "Islamic Azad University, Tehran",
-        "count": 1361
+        "count": 1362
       },
       {
         "name": "Hong Kong Polytechnic University",
@@ -1535,11 +1535,11 @@
       },
       {
         "name": "University of London",
-        "count": 869
+        "count": 868
       },
       {
         "name": "Politecnico di Milano",
-        "count": 798
+        "count": 799
       },
       {
         "name": "Universidade de São Paulo",
@@ -1551,7 +1551,7 @@
       },
       {
         "name": "Tianjin University",
-        "count": 713
+        "count": 712
       }
     ]
   },
@@ -1567,7 +1567,7 @@
       },
       {
         "year": 2026,
-        "count": 1292
+        "count": 1308
       }
     ],
     "warehouse_automation": [
@@ -1581,7 +1581,7 @@
       },
       {
         "year": 2026,
-        "count": 104
+        "count": 105
       }
     ],
     "supply_chain_technology": [
@@ -1595,7 +1595,7 @@
       },
       {
         "year": 2026,
-        "count": 194
+        "count": 195
       }
     ],
     "inventory_management": [
@@ -1605,11 +1605,11 @@
       },
       {
         "year": 2025,
-        "count": 191
+        "count": 0
       },
       {
         "year": 2026,
-        "count": 122
+        "count": 124
       }
     ],
     "robotics_fulfillment": [
