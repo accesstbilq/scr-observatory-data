@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T11:52:39.549Z",
+  "generated_at": "2026-09-28T13:37:42.959Z",
   "sources": {
     "bls": {
       "name": "Bureau of Labor Statistics",
@@ -1265,293 +1265,293 @@
     "sustainable_supply_chain": [
       {
         "year": 2015,
-        "count": 6658
+        "count": 6643
       },
       {
         "year": 2016,
-        "count": 6938
+        "count": 6932
       },
       {
         "year": 2017,
-        "count": 7566
+        "count": 7562
       },
       {
         "year": 2018,
-        "count": 9005
+        "count": 8994
       },
       {
         "year": 2019,
-        "count": 10140
+        "count": 10130
       },
       {
         "year": 2020,
-        "count": 11490
+        "count": 11476
       },
       {
         "year": 2021,
-        "count": 13435
+        "count": 13422
       },
       {
         "year": 2022,
-        "count": 14561
+        "count": 14556
       },
       {
         "year": 2023,
-        "count": 17098
+        "count": 17088
       },
       {
         "year": 2024,
-        "count": 15581
+        "count": 15564
       },
       {
         "year": 2025,
-        "count": 19057
+        "count": 19013
       },
       {
         "year": 2026,
-        "count": 17136
+        "count": 17117
       }
     ],
     "outsourcing_scm": [
       {
         "year": 2015,
-        "count": 5909
+        "count": 5901
       },
       {
         "year": 2016,
-        "count": 5342
+        "count": 5334
       },
       {
         "year": 2017,
-        "count": 5260
+        "count": 5259
       },
       {
         "year": 2018,
-        "count": 4864
+        "count": 4859
       },
       {
         "year": 2019,
-        "count": 4639
+        "count": 4635
       },
       {
         "year": 2020,
-        "count": 4238
+        "count": 4229
       },
       {
         "year": 2021,
-        "count": 3465
+        "count": 3459
       },
       {
         "year": 2022,
-        "count": 2881
+        "count": 2878
       },
       {
         "year": 2023,
-        "count": 3049
+        "count": 3047
       },
       {
         "year": 2024,
-        "count": 3223
+        "count": 3221
       },
       {
         "year": 2025,
-        "count": 3449
+        "count": 3445
       },
       {
         "year": 2026,
-        "count": 2733
+        "count": 2738
       }
     ],
     "inventory_management": [
       {
         "year": 2015,
-        "count": 4371
+        "count": 4358
       },
       {
         "year": 2016,
-        "count": 4213
+        "count": 4209
       },
       {
         "year": 2017,
-        "count": 4236
+        "count": 4233
       },
       {
         "year": 2018,
-        "count": 4476
+        "count": 4468
       },
       {
         "year": 2019,
-        "count": 4744
+        "count": 4737
       },
       {
         "year": 2020,
-        "count": 4692
+        "count": 4690
       },
       {
         "year": 2021,
-        "count": 5178
+        "count": 5173
       },
       {
         "year": 2022,
-        "count": 4832
+        "count": 4828
       },
       {
         "year": 2023,
-        "count": 4785
+        "count": 4782
       },
       {
         "year": 2024,
-        "count": 4558
+        "count": 4556
       },
       {
         "year": 2025,
-        "count": 5804
+        "count": 5802
       },
       {
         "year": 2026,
-        "count": 6862
+        "count": 6864
       }
     ],
     "supply_chain_resilience": [
       {
         "year": 2015,
-        "count": 3224
+        "count": 3217
       },
       {
         "year": 2016,
-        "count": 3494
+        "count": 3487
       },
       {
         "year": 2017,
-        "count": 3858
+        "count": 3855
       },
       {
         "year": 2018,
-        "count": 4189
+        "count": 4185
       },
       {
         "year": 2019,
-        "count": 4631
+        "count": 4625
       },
       {
         "year": 2020,
-        "count": 5965
+        "count": 5959
       },
       {
         "year": 2021,
-        "count": 7325
+        "count": 7305
       },
       {
         "year": 2022,
-        "count": 7763
+        "count": 7756
       },
       {
         "year": 2023,
-        "count": 8646
+        "count": 8638
       },
       {
         "year": 2024,
-        "count": 9039
+        "count": 9029
       },
       {
         "year": 2025,
-        "count": 14439
+        "count": 14427
       },
       {
         "year": 2026,
-        "count": 18280
+        "count": 18286
       }
     ],
     "quality_supply_mgmt": [
       {
         "year": 2015,
-        "count": 11219
+        "count": 11200
       },
       {
         "year": 2016,
-        "count": 11239
+        "count": 11220
       },
       {
         "year": 2017,
-        "count": 11677
+        "count": 11666
       },
       {
         "year": 2018,
-        "count": 12108
+        "count": 12082
       },
       {
         "year": 2019,
-        "count": 12237
+        "count": 12225
       },
       {
         "year": 2020,
-        "count": 11210
+        "count": 11191
       },
       {
         "year": 2021,
-        "count": 9666
+        "count": 9655
       },
       {
         "year": 2022,
-        "count": 8250
+        "count": 8244
       },
       {
         "year": 2023,
-        "count": 9557
+        "count": 9545
       },
       {
         "year": 2024,
-        "count": 10881
+        "count": 10860
       },
       {
         "year": 2025,
-        "count": 12222
+        "count": 12190
       },
       {
         "year": 2026,
-        "count": 9222
+        "count": 9224
       }
     ],
     "top_institutions": [
       {
         "name": "Centre National de la Recherche Scientifique",
-        "count": 1791
+        "count": 1687
       },
       {
         "name": "Islamic Azad University, Tehran",
-        "count": 1385
+        "count": 1397
       },
       {
         "name": "Hong Kong Polytechnic University",
-        "count": 1259
+        "count": 1245
       },
       {
         "name": "University of Tehran",
-        "count": 1122
+        "count": 1137
       },
       {
         "name": "Chinese Academy of Sciences",
-        "count": 1101
-      },
-      {
-        "name": "University of London",
-        "count": 877
-      },
-      {
-        "name": "Politecnico di Milano",
-        "count": 805
+        "count": 1035
       },
       {
         "name": "Universidade de São Paulo",
-        "count": 763
+        "count": 911
+      },
+      {
+        "name": "University of London",
+        "count": 890
+      },
+      {
+        "name": "Politecnico di Milano",
+        "count": 810
       },
       {
         "name": "Tsinghua University",
-        "count": 753
+        "count": 758
       },
       {
         "name": "Tianjin University",
-        "count": 716
+        "count": 755
       }
     ]
   },
@@ -1567,7 +1567,7 @@
       },
       {
         "year": 2026,
-        "count": 1534
+        "count": 1536
       }
     ],
     "warehouse_automation": [
@@ -1581,7 +1581,7 @@
       },
       {
         "year": 2026,
-        "count": 130
+        "count": 131
       }
     ],
     "supply_chain_technology": [
@@ -1690,11 +1690,11 @@
     "warehouse_management": [
       {
         "date": "2021-09",
-        "value": 23
+        "value": 25
       },
       {
         "date": "2021-10",
-        "value": 27
+        "value": 28
       },
       {
         "date": "2021-11",
@@ -1702,27 +1702,27 @@
       },
       {
         "date": "2021-12",
-        "value": 23
+        "value": 24
       },
       {
         "date": "2022-01",
-        "value": 25
+        "value": 26
       },
       {
         "date": "2022-02",
-        "value": 28
+        "value": 29
       },
       {
         "date": "2022-03",
-        "value": 25
+        "value": 26
       },
       {
         "date": "2022-04",
-        "value": 25
+        "value": 26
       },
       {
         "date": "2022-05",
-        "value": 25
+        "value": 24
       },
       {
         "date": "2022-06",
@@ -1730,19 +1730,19 @@
       },
       {
         "date": "2022-07",
-        "value": 26
+        "value": 27
       },
       {
         "date": "2022-08",
-        "value": 24
+        "value": 25
       },
       {
         "date": "2022-09",
-        "value": 23
+        "value": 24
       },
       {
         "date": "2022-10",
-        "value": 21
+        "value": 22
       },
       {
         "date": "2022-11",
@@ -1770,7 +1770,7 @@
       },
       {
         "date": "2023-05",
-        "value": 19
+        "value": 20
       },
       {
         "date": "2023-06",
@@ -1778,7 +1778,7 @@
       },
       {
         "date": "2023-07",
-        "value": 19
+        "value": 20
       },
       {
         "date": "2023-08",
@@ -1790,7 +1790,7 @@
       },
       {
         "date": "2023-10",
-        "value": 22
+        "value": 23
       },
       {
         "date": "2023-11",
@@ -1802,7 +1802,7 @@
       },
       {
         "date": "2024-01",
-        "value": 19
+        "value": 20
       },
       {
         "date": "2024-02",
@@ -1810,7 +1810,7 @@
       },
       {
         "date": "2024-03",
-        "value": 23
+        "value": 24
       },
       {
         "date": "2024-04",
@@ -1818,19 +1818,19 @@
       },
       {
         "date": "2024-05",
-        "value": 18
+        "value": 19
       },
       {
         "date": "2024-06",
-        "value": 19
+        "value": 20
       },
       {
         "date": "2024-07",
-        "value": 19
+        "value": 20
       },
       {
         "date": "2024-08",
-        "value": 18
+        "value": 19
       },
       {
         "date": "2024-09",
@@ -1850,15 +1850,15 @@
       },
       {
         "date": "2025-01",
-        "value": 22
+        "value": 23
       },
       {
         "date": "2025-02",
-        "value": 26
+        "value": 27
       },
       {
         "date": "2025-03",
-        "value": 28
+        "value": 29
       },
       {
         "date": "2025-04",
@@ -1866,11 +1866,11 @@
       },
       {
         "date": "2025-05",
-        "value": 32
+        "value": 33
       },
       {
         "date": "2025-06",
-        "value": 36
+        "value": 37
       },
       {
         "date": "2025-07",
@@ -1878,65 +1878,65 @@
       },
       {
         "date": "2025-08",
-        "value": 42
+        "value": 43
       },
       {
         "date": "2025-09",
-        "value": 52
+        "value": 53
       },
       {
         "date": "2025-10",
-        "value": 40
+        "value": 41
       },
       {
         "date": "2025-11",
-        "value": 46
+        "value": 47
       },
       {
         "date": "2025-12",
-        "value": 37
+        "value": 38
       },
       {
         "date": "2026-01",
-        "value": 51
+        "value": 52
       },
       {
         "date": "2026-02",
-        "value": 72
+        "value": 74
       },
       {
         "date": "2026-03",
-        "value": 71
+        "value": 73
       },
       {
         "date": "2026-04",
-        "value": 78
+        "value": 80
       },
       {
         "date": "2026-05",
-        "value": 79
+        "value": 81
       },
       {
         "date": "2026-06",
-        "value": 89
+        "value": 91
       },
       {
         "date": "2026-07",
-        "value": 51
+        "value": 52
       },
       {
         "date": "2026-08",
-        "value": 32
+        "value": 33
       },
       {
         "date": "2026-09",
-        "value": 26
+        "value": 27
       }
     ],
     "transportation_management": [
       {
         "date": "2021-09",
-        "value": 15
+        "value": 14
       },
       {
         "date": "2021-10",
@@ -1952,7 +1952,7 @@
       },
       {
         "date": "2022-01",
-        "value": 17
+        "value": 16
       },
       {
         "date": "2022-02",
@@ -1964,11 +1964,11 @@
       },
       {
         "date": "2022-04",
-        "value": 20
+        "value": 21
       },
       {
         "date": "2022-05",
-        "value": 18
+        "value": 17
       },
       {
         "date": "2022-06",
@@ -2004,7 +2004,7 @@
       },
       {
         "date": "2023-02",
-        "value": 20
+        "value": 19
       },
       {
         "date": "2023-03",
@@ -2032,15 +2032,15 @@
       },
       {
         "date": "2023-09",
-        "value": 20
+        "value": 19
       },
       {
         "date": "2023-10",
-        "value": 22
+        "value": 20
       },
       {
         "date": "2023-11",
-        "value": 19
+        "value": 18
       },
       {
         "date": "2023-12",
@@ -2048,11 +2048,11 @@
       },
       {
         "date": "2024-01",
-        "value": 19
+        "value": 20
       },
       {
         "date": "2024-02",
-        "value": 22
+        "value": 23
       },
       {
         "date": "2024-03",
@@ -2112,7 +2112,7 @@
       },
       {
         "date": "2025-05",
-        "value": 27
+        "value": 26
       },
       {
         "date": "2025-06",
@@ -2120,7 +2120,7 @@
       },
       {
         "date": "2025-07",
-        "value": 43
+        "value": 44
       },
       {
         "date": "2025-08",
@@ -2128,7 +2128,7 @@
       },
       {
         "date": "2025-09",
-        "value": 53
+        "value": 54
       },
       {
         "date": "2025-10",
@@ -2148,11 +2148,11 @@
       },
       {
         "date": "2026-02",
-        "value": 92
+        "value": 93
       },
       {
         "date": "2026-03",
-        "value": 70
+        "value": 71
       },
       {
         "date": "2026-04",
@@ -2160,7 +2160,7 @@
       },
       {
         "date": "2026-05",
-        "value": 75
+        "value": 76
       },
       {
         "date": "2026-06",
@@ -2176,17 +2176,17 @@
       },
       {
         "date": "2026-09",
-        "value": 23
+        "value": 25
       }
     ],
     "order_management": [
       {
         "date": "2021-09",
-        "value": 15
+        "value": 14
       },
       {
         "date": "2021-10",
-        "value": 16
+        "value": 15
       },
       {
         "date": "2021-11",
@@ -2194,27 +2194,27 @@
       },
       {
         "date": "2021-12",
-        "value": 11
+        "value": 10
       },
       {
         "date": "2022-01",
-        "value": 14
+        "value": 13
       },
       {
         "date": "2022-02",
-        "value": 22
-      },
-      {
-        "date": "2022-03",
-        "value": 22
-      },
-      {
-        "date": "2022-04",
         "value": 21
       },
       {
+        "date": "2022-03",
+        "value": 21
+      },
+      {
+        "date": "2022-04",
+        "value": 20
+      },
+      {
         "date": "2022-05",
-        "value": 16
+        "value": 15
       },
       {
         "date": "2022-06",
@@ -2222,35 +2222,35 @@
       },
       {
         "date": "2022-07",
-        "value": 13
+        "value": 12
       },
       {
         "date": "2022-08",
-        "value": 14
+        "value": 13
       },
       {
         "date": "2022-09",
-        "value": 19
+        "value": 18
       },
       {
         "date": "2022-10",
-        "value": 20
+        "value": 19
       },
       {
         "date": "2022-11",
-        "value": 17
-      },
-      {
-        "date": "2022-12",
-        "value": 15
-      },
-      {
-        "date": "2023-01",
         "value": 16
       },
       {
+        "date": "2022-12",
+        "value": 13
+      },
+      {
+        "date": "2023-01",
+        "value": 15
+      },
+      {
         "date": "2023-02",
-        "value": 19
+        "value": 18
       },
       {
         "date": "2023-03",
@@ -2258,11 +2258,11 @@
       },
       {
         "date": "2023-04",
-        "value": 21
+        "value": 20
       },
       {
         "date": "2023-05",
-        "value": 14
+        "value": 13
       },
       {
         "date": "2023-06",
@@ -2274,47 +2274,47 @@
       },
       {
         "date": "2023-08",
-        "value": 15
+        "value": 14
       },
       {
         "date": "2023-09",
-        "value": 22
+        "value": 21
       },
       {
         "date": "2023-10",
-        "value": 24
+        "value": 22
       },
       {
         "date": "2023-11",
-        "value": 21
+        "value": 20
       },
       {
         "date": "2023-12",
-        "value": 15
+        "value": 14
       },
       {
         "date": "2024-01",
-        "value": 21
+        "value": 20
       },
       {
         "date": "2024-02",
-        "value": 25
+        "value": 23
       },
       {
         "date": "2024-03",
-        "value": 24
+        "value": 23
       },
       {
         "date": "2024-04",
-        "value": 24
+        "value": 23
       },
       {
         "date": "2024-05",
-        "value": 17
+        "value": 16
       },
       {
         "date": "2024-06",
-        "value": 16
+        "value": 15
       },
       {
         "date": "2024-07",
@@ -2322,103 +2322,103 @@
       },
       {
         "date": "2024-08",
-        "value": 16
+        "value": 15
       },
       {
         "date": "2024-09",
-        "value": 26
+        "value": 25
       },
       {
         "date": "2024-10",
-        "value": 26
+        "value": 24
       },
       {
         "date": "2024-11",
-        "value": 24
-      },
-      {
-        "date": "2024-12",
-        "value": 17
-      },
-      {
-        "date": "2025-01",
         "value": 22
       },
       {
+        "date": "2024-12",
+        "value": 16
+      },
+      {
+        "date": "2025-01",
+        "value": 21
+      },
+      {
         "date": "2025-02",
-        "value": 29
+        "value": 27
       },
       {
         "date": "2025-03",
-        "value": 26
+        "value": 25
       },
       {
         "date": "2025-04",
-        "value": 29
+        "value": 28
       },
       {
         "date": "2025-05",
-        "value": 24
+        "value": 23
       },
       {
         "date": "2025-06",
-        "value": 33
+        "value": 32
       },
       {
         "date": "2025-07",
-        "value": 43
-      },
-      {
-        "date": "2025-08",
         "value": 42
       },
       {
+        "date": "2025-08",
+        "value": 41
+      },
+      {
         "date": "2025-09",
-        "value": 62
+        "value": 57
       },
       {
         "date": "2025-10",
-        "value": 45
+        "value": 43
       },
       {
         "date": "2025-11",
-        "value": 54
+        "value": 52
       },
       {
         "date": "2025-12",
-        "value": 46
+        "value": 44
       },
       {
         "date": "2026-01",
-        "value": 63
+        "value": 61
       },
       {
         "date": "2026-02",
-        "value": 84
-      },
-      {
-        "date": "2026-03",
         "value": 81
       },
       {
+        "date": "2026-03",
+        "value": 77
+      },
+      {
         "date": "2026-04",
-        "value": 78
+        "value": 77
       },
       {
         "date": "2026-05",
-        "value": 83
+        "value": 79
       },
       {
         "date": "2026-06",
-        "value": 88
+        "value": 85
       },
       {
         "date": "2026-07",
-        "value": 45
+        "value": 44
       },
       {
         "date": "2026-08",
-        "value": 28
+        "value": 26
       },
       {
         "date": "2026-09",
@@ -2428,7 +2428,7 @@
     "supply_chain_planning": [
       {
         "date": "2021-09",
-        "value": 12
+        "value": 11
       },
       {
         "date": "2021-10",
@@ -2436,11 +2436,11 @@
       },
       {
         "date": "2021-11",
-        "value": 11
+        "value": 10
       },
       {
         "date": "2021-12",
-        "value": 8
+        "value": 9
       },
       {
         "date": "2022-01",
@@ -2456,7 +2456,7 @@
       },
       {
         "date": "2022-04",
-        "value": 15
+        "value": 14
       },
       {
         "date": "2022-05",
@@ -2464,19 +2464,19 @@
       },
       {
         "date": "2022-06",
-        "value": 9
-      },
-      {
-        "date": "2022-07",
         "value": 8
       },
       {
+        "date": "2022-07",
+        "value": 9
+      },
+      {
         "date": "2022-08",
-        "value": 10
+        "value": 11
       },
       {
         "date": "2022-09",
-        "value": 13
+        "value": 14
       },
       {
         "date": "2022-10",
@@ -2504,11 +2504,11 @@
       },
       {
         "date": "2023-04",
-        "value": 13
+        "value": 12
       },
       {
         "date": "2023-05",
-        "value": 10
+        "value": 11
       },
       {
         "date": "2023-06",
@@ -2516,11 +2516,11 @@
       },
       {
         "date": "2023-07",
-        "value": 7
+        "value": 8
       },
       {
         "date": "2023-08",
-        "value": 10
+        "value": 11
       },
       {
         "date": "2023-09",
@@ -2528,15 +2528,15 @@
       },
       {
         "date": "2023-10",
-        "value": 13
+        "value": 14
       },
       {
         "date": "2023-11",
-        "value": 13
+        "value": 14
       },
       {
         "date": "2023-12",
-        "value": 10
+        "value": 9
       },
       {
         "date": "2024-01",
@@ -2556,11 +2556,11 @@
       },
       {
         "date": "2024-05",
-        "value": 11
+        "value": 10
       },
       {
         "date": "2024-06",
-        "value": 11
+        "value": 10
       },
       {
         "date": "2024-07",
@@ -2576,7 +2576,7 @@
       },
       {
         "date": "2024-10",
-        "value": 18
+        "value": 17
       },
       {
         "date": "2024-11",
@@ -2584,7 +2584,7 @@
       },
       {
         "date": "2024-12",
-        "value": 13
+        "value": 12
       },
       {
         "date": "2025-01",
@@ -2596,11 +2596,11 @@
       },
       {
         "date": "2025-03",
-        "value": 19
+        "value": 18
       },
       {
         "date": "2025-04",
-        "value": 18
+        "value": 19
       },
       {
         "date": "2025-05",
@@ -2608,19 +2608,19 @@
       },
       {
         "date": "2025-06",
-        "value": 20
+        "value": 19
       },
       {
         "date": "2025-07",
-        "value": 21
+        "value": 22
       },
       {
         "date": "2025-08",
-        "value": 28
+        "value": 29
       },
       {
         "date": "2025-09",
-        "value": 38
+        "value": 39
       },
       {
         "date": "2025-10",
@@ -2628,39 +2628,39 @@
       },
       {
         "date": "2025-11",
-        "value": 33
+        "value": 35
       },
       {
         "date": "2025-12",
-        "value": 24
+        "value": 25
       },
       {
         "date": "2026-01",
-        "value": 42
+        "value": 43
       },
       {
         "date": "2026-02",
-        "value": 65
+        "value": 66
       },
       {
         "date": "2026-03",
-        "value": 54
+        "value": 55
       },
       {
         "date": "2026-04",
-        "value": 52
+        "value": 53
       },
       {
         "date": "2026-05",
-        "value": 50
-      },
-      {
-        "date": "2026-06",
         "value": 51
       },
       {
+        "date": "2026-06",
+        "value": 52
+      },
+      {
         "date": "2026-07",
-        "value": 33
+        "value": 35
       },
       {
         "date": "2026-08",
@@ -2668,13 +2668,13 @@
       },
       {
         "date": "2026-09",
-        "value": 25
+        "value": 26
       }
     ],
     "yard_management": [
       {
         "date": "2021-09",
-        "value": 19
+        "value": 20
       },
       {
         "date": "2021-10",
@@ -2682,11 +2682,11 @@
       },
       {
         "date": "2021-11",
-        "value": 21
+        "value": 20
       },
       {
         "date": "2021-12",
-        "value": 14
+        "value": 13
       },
       {
         "date": "2022-01",
@@ -2702,15 +2702,15 @@
       },
       {
         "date": "2022-04",
-        "value": 21
+        "value": 20
       },
       {
         "date": "2022-05",
-        "value": 23
+        "value": 22
       },
       {
         "date": "2022-06",
-        "value": 20
+        "value": 19
       },
       {
         "date": "2022-07",
@@ -2734,7 +2734,7 @@
       },
       {
         "date": "2022-12",
-        "value": 15
+        "value": 14
       },
       {
         "date": "2023-01",
@@ -2742,7 +2742,7 @@
       },
       {
         "date": "2023-02",
-        "value": 16
+        "value": 15
       },
       {
         "date": "2023-03",
@@ -2758,7 +2758,7 @@
       },
       {
         "date": "2023-06",
-        "value": 22
+        "value": 21
       },
       {
         "date": "2023-07",
@@ -2766,23 +2766,23 @@
       },
       {
         "date": "2023-08",
-        "value": 17
+        "value": 18
       },
       {
         "date": "2023-09",
-        "value": 18
+        "value": 17
       },
       {
         "date": "2023-10",
-        "value": 19
+        "value": 17
       },
       {
         "date": "2023-11",
-        "value": 18
+        "value": 19
       },
       {
         "date": "2023-12",
-        "value": 13
+        "value": 12
       },
       {
         "date": "2024-01",
@@ -2794,7 +2794,7 @@
       },
       {
         "date": "2024-03",
-        "value": 21
+        "value": 20
       },
       {
         "date": "2024-04",
@@ -2802,7 +2802,7 @@
       },
       {
         "date": "2024-05",
-        "value": 20
+        "value": 21
       },
       {
         "date": "2024-06",
@@ -2826,11 +2826,11 @@
       },
       {
         "date": "2024-11",
-        "value": 19
+        "value": 18
       },
       {
         "date": "2024-12",
-        "value": 14
+        "value": 13
       },
       {
         "date": "2025-01",
@@ -2838,15 +2838,15 @@
       },
       {
         "date": "2025-02",
-        "value": 16
+        "value": 15
       },
       {
         "date": "2025-03",
-        "value": 23
+        "value": 22
       },
       {
         "date": "2025-04",
-        "value": 28
+        "value": 26
       },
       {
         "date": "2025-05",
@@ -2854,7 +2854,7 @@
       },
       {
         "date": "2025-06",
-        "value": 32
+        "value": 31
       },
       {
         "date": "2025-07",
@@ -2866,7 +2866,7 @@
       },
       {
         "date": "2025-09",
-        "value": 41
+        "value": 42
       },
       {
         "date": "2025-10",
@@ -2874,39 +2874,39 @@
       },
       {
         "date": "2025-11",
-        "value": 45
+        "value": 43
       },
       {
         "date": "2025-12",
-        "value": 35
+        "value": 34
       },
       {
         "date": "2026-01",
-        "value": 46
+        "value": 45
       },
       {
         "date": "2026-02",
-        "value": 79
+        "value": 77
       },
       {
         "date": "2026-03",
-        "value": 76
+        "value": 74
       },
       {
         "date": "2026-04",
-        "value": 86
+        "value": 83
       },
       {
         "date": "2026-05",
-        "value": 87
+        "value": 86
       },
       {
         "date": "2026-06",
-        "value": 85
+        "value": 84
       },
       {
         "date": "2026-07",
-        "value": 45
+        "value": 44
       },
       {
         "date": "2026-08",
@@ -2920,11 +2920,11 @@
     "manufacturing": [
       {
         "date": "2021-09",
-        "value": 37
+        "value": 35
       },
       {
         "date": "2021-10",
-        "value": 37
+        "value": 36
       },
       {
         "date": "2021-11",
@@ -2932,19 +2932,19 @@
       },
       {
         "date": "2021-12",
-        "value": 27
+        "value": 28
       },
       {
         "date": "2022-01",
-        "value": 35
+        "value": 34
       },
       {
         "date": "2022-02",
-        "value": 43
+        "value": 42
       },
       {
         "date": "2022-03",
-        "value": 41
+        "value": 40
       },
       {
         "date": "2022-04",
@@ -2952,19 +2952,19 @@
       },
       {
         "date": "2022-05",
-        "value": 36
+        "value": 35
       },
       {
         "date": "2022-06",
-        "value": 36
+        "value": 35
       },
       {
         "date": "2022-07",
-        "value": 34
+        "value": 33
       },
       {
         "date": "2022-08",
-        "value": 36
+        "value": 35
       },
       {
         "date": "2022-09",
@@ -2972,15 +2972,15 @@
       },
       {
         "date": "2022-10",
-        "value": 39
+        "value": 38
       },
       {
         "date": "2022-11",
-        "value": 34
+        "value": 32
       },
       {
         "date": "2022-12",
-        "value": 30
+        "value": 29
       },
       {
         "date": "2023-01",
@@ -2988,7 +2988,7 @@
       },
       {
         "date": "2023-02",
-        "value": 41
+        "value": 40
       },
       {
         "date": "2023-03",
@@ -3000,7 +3000,7 @@
       },
       {
         "date": "2023-05",
-        "value": 35
+        "value": 34
       },
       {
         "date": "2023-06",
@@ -3008,19 +3008,19 @@
       },
       {
         "date": "2023-07",
-        "value": 34
+        "value": 33
       },
       {
         "date": "2023-08",
-        "value": 35
+        "value": 34
       },
       {
         "date": "2023-09",
-        "value": 40
+        "value": 39
       },
       {
         "date": "2023-10",
-        "value": 41
+        "value": 40
       },
       {
         "date": "2023-11",
@@ -3028,7 +3028,7 @@
       },
       {
         "date": "2023-12",
-        "value": 32
+        "value": 31
       },
       {
         "date": "2024-01",
@@ -3036,7 +3036,7 @@
       },
       {
         "date": "2024-02",
-        "value": 45
+        "value": 44
       },
       {
         "date": "2024-03",
@@ -3048,7 +3048,7 @@
       },
       {
         "date": "2024-05",
-        "value": 37
+        "value": 36
       },
       {
         "date": "2024-06",
@@ -3056,7 +3056,7 @@
       },
       {
         "date": "2024-07",
-        "value": 34
+        "value": 35
       },
       {
         "date": "2024-08",
@@ -3076,15 +3076,15 @@
       },
       {
         "date": "2024-12",
-        "value": 32
+        "value": 31
       },
       {
         "date": "2025-01",
-        "value": 41
+        "value": 40
       },
       {
         "date": "2025-02",
-        "value": 47
+        "value": 46
       },
       {
         "date": "2025-03",
@@ -3092,11 +3092,11 @@
       },
       {
         "date": "2025-04",
-        "value": 49
+        "value": 50
       },
       {
         "date": "2025-05",
-        "value": 44
+        "value": 42
       },
       {
         "date": "2025-06",
@@ -3104,15 +3104,15 @@
       },
       {
         "date": "2025-07",
-        "value": 58
+        "value": 59
       },
       {
         "date": "2025-08",
-        "value": 52
+        "value": 51
       },
       {
         "date": "2025-09",
-        "value": 55
+        "value": 54
       },
       {
         "date": "2025-10",
@@ -3128,15 +3128,15 @@
       },
       {
         "date": "2026-01",
-        "value": 68
+        "value": 67
       },
       {
         "date": "2026-02",
-        "value": 83
+        "value": 84
       },
       {
         "date": "2026-03",
-        "value": 84
+        "value": 83
       },
       {
         "date": "2026-04",
@@ -3148,7 +3148,7 @@
       },
       {
         "date": "2026-06",
-        "value": 93
+        "value": 92
       },
       {
         "date": "2026-07",
@@ -3156,53 +3156,53 @@
       },
       {
         "date": "2026-08",
-        "value": 54
+        "value": 52
       },
       {
         "date": "2026-09",
-        "value": 39
+        "value": 42
       }
     ],
     "supply_chain_disruption": [
       {
         "date": "2021-09",
-        "value": 19
+        "value": 11
       },
       {
         "date": "2021-10",
-        "value": 31
+        "value": 36
       },
       {
         "date": "2021-11",
-        "value": 18
+        "value": 21
       },
       {
         "date": "2021-12",
-        "value": 6
+        "value": 9
       },
       {
         "date": "2022-01",
-        "value": 16
-      },
-      {
-        "date": "2022-02",
-        "value": 17
-      },
-      {
-        "date": "2022-03",
-        "value": 16
-      },
-      {
-        "date": "2022-04",
         "value": 19
       },
       {
+        "date": "2022-02",
+        "value": 18
+      },
+      {
+        "date": "2022-03",
+        "value": 17
+      },
+      {
+        "date": "2022-04",
+        "value": 21
+      },
+      {
         "date": "2022-05",
-        "value": 14
+        "value": 16
       },
       {
         "date": "2022-06",
-        "value": 11
+        "value": 10
       },
       {
         "date": "2022-07",
@@ -3214,11 +3214,11 @@
       },
       {
         "date": "2022-09",
-        "value": 15
+        "value": 16
       },
       {
         "date": "2022-10",
-        "value": 16
+        "value": 17
       },
       {
         "date": "2022-11",
@@ -3230,23 +3230,23 @@
       },
       {
         "date": "2023-01",
-        "value": 9
+        "value": 10
       },
       {
         "date": "2023-02",
-        "value": 15
+        "value": 18
       },
       {
         "date": "2023-03",
-        "value": 12
+        "value": 10
       },
       {
         "date": "2023-04",
-        "value": 11
+        "value": 12
       },
       {
         "date": "2023-05",
-        "value": 7
+        "value": 4
       },
       {
         "date": "2023-06",
@@ -3254,7 +3254,7 @@
       },
       {
         "date": "2023-07",
-        "value": 6
+        "value": 4
       },
       {
         "date": "2023-08",
@@ -3262,15 +3262,15 @@
       },
       {
         "date": "2023-09",
-        "value": 10
+        "value": 14
       },
       {
         "date": "2023-10",
-        "value": 11
+        "value": 12
       },
       {
         "date": "2023-11",
-        "value": 10
+        "value": 9
       },
       {
         "date": "2023-12",
@@ -3278,39 +3278,39 @@
       },
       {
         "date": "2024-01",
-        "value": 6
+        "value": 13
       },
       {
         "date": "2024-02",
-        "value": 10
-      },
-      {
-        "date": "2024-03",
         "value": 11
       },
       {
+        "date": "2024-03",
+        "value": 13
+      },
+      {
         "date": "2024-04",
-        "value": 15
+        "value": 14
       },
       {
         "date": "2024-05",
-        "value": 7
+        "value": 6
       },
       {
         "date": "2024-06",
-        "value": 5
+        "value": 3
       },
       {
         "date": "2024-07",
-        "value": 2
+        "value": 0
       },
       {
         "date": "2024-08",
-        "value": 2
+        "value": 7
       },
       {
         "date": "2024-09",
-        "value": 12
+        "value": 14
       },
       {
         "date": "2024-10",
@@ -3318,7 +3318,7 @@
       },
       {
         "date": "2024-11",
-        "value": 12
+        "value": 11
       },
       {
         "date": "2024-12",
@@ -3326,15 +3326,15 @@
       },
       {
         "date": "2025-01",
-        "value": 7
-      },
-      {
-        "date": "2025-02",
         "value": 6
       },
       {
+        "date": "2025-02",
+        "value": 11
+      },
+      {
         "date": "2025-03",
-        "value": 12
+        "value": 13
       },
       {
         "date": "2025-04",
@@ -3342,23 +3342,23 @@
       },
       {
         "date": "2025-05",
-        "value": 10
+        "value": 12
       },
       {
         "date": "2025-06",
-        "value": 20
+        "value": 19
       },
       {
         "date": "2025-07",
-        "value": 21
+        "value": 22
       },
       {
         "date": "2025-08",
-        "value": 18
+        "value": 23
       },
       {
         "date": "2025-09",
-        "value": 30
+        "value": 34
       },
       {
         "date": "2025-10",
@@ -3366,11 +3366,11 @@
       },
       {
         "date": "2025-11",
-        "value": 29
+        "value": 33
       },
       {
         "date": "2025-12",
-        "value": 22
+        "value": 25
       },
       {
         "date": "2026-01",
@@ -3378,27 +3378,27 @@
       },
       {
         "date": "2026-02",
-        "value": 51
+        "value": 58
       },
       {
         "date": "2026-03",
-        "value": 86
+        "value": 92
       },
       {
         "date": "2026-04",
-        "value": 75
+        "value": 80
       },
       {
         "date": "2026-05",
-        "value": 76
+        "value": 82
       },
       {
         "date": "2026-06",
-        "value": 71
+        "value": 79
       },
       {
         "date": "2026-07",
-        "value": 41
+        "value": 46
       },
       {
         "date": "2026-08",
@@ -3406,17 +3406,17 @@
       },
       {
         "date": "2026-09",
-        "value": 15
+        "value": 17
       }
     ],
     "warehouse_automation": [
       {
         "date": "2021-09",
-        "value": 13
+        "value": 12
       },
       {
         "date": "2021-10",
-        "value": 10
+        "value": 11
       },
       {
         "date": "2021-11",
@@ -3432,7 +3432,7 @@
       },
       {
         "date": "2022-02",
-        "value": 6
+        "value": 7
       },
       {
         "date": "2022-03",
@@ -3440,7 +3440,7 @@
       },
       {
         "date": "2022-04",
-        "value": 7
+        "value": 6
       },
       {
         "date": "2022-05",
@@ -3448,11 +3448,11 @@
       },
       {
         "date": "2022-06",
-        "value": 6
+        "value": 8
       },
       {
         "date": "2022-07",
-        "value": 6
+        "value": 8
       },
       {
         "date": "2022-08",
@@ -3460,15 +3460,15 @@
       },
       {
         "date": "2022-09",
-        "value": 6
-      },
-      {
-        "date": "2022-10",
         "value": 7
       },
       {
+        "date": "2022-10",
+        "value": 6
+      },
+      {
         "date": "2022-11",
-        "value": 5
+        "value": 7
       },
       {
         "date": "2022-12",
@@ -3476,7 +3476,7 @@
       },
       {
         "date": "2023-01",
-        "value": 7
+        "value": 8
       },
       {
         "date": "2023-02",
@@ -3492,11 +3492,11 @@
       },
       {
         "date": "2023-05",
-        "value": 6
+        "value": 7
       },
       {
         "date": "2023-06",
-        "value": 6
+        "value": 5
       },
       {
         "date": "2023-07",
@@ -3508,7 +3508,7 @@
       },
       {
         "date": "2023-09",
-        "value": 7
+        "value": 9
       },
       {
         "date": "2023-10",
@@ -3520,15 +3520,15 @@
       },
       {
         "date": "2023-12",
-        "value": 4
+        "value": 6
       },
       {
         "date": "2024-01",
-        "value": 7
+        "value": 6
       },
       {
         "date": "2024-02",
-        "value": 8
+        "value": 7
       },
       {
         "date": "2024-03",
@@ -3544,11 +3544,11 @@
       },
       {
         "date": "2024-06",
-        "value": 7
+        "value": 6
       },
       {
         "date": "2024-07",
-        "value": 6
+        "value": 5
       },
       {
         "date": "2024-08",
@@ -3564,15 +3564,15 @@
       },
       {
         "date": "2024-11",
-        "value": 7
+        "value": 6
       },
       {
         "date": "2024-12",
-        "value": 7
+        "value": 6
       },
       {
         "date": "2025-01",
-        "value": 9
+        "value": 8
       },
       {
         "date": "2025-02",
@@ -3580,7 +3580,7 @@
       },
       {
         "date": "2025-03",
-        "value": 11
+        "value": 12
       },
       {
         "date": "2025-04",
@@ -3588,7 +3588,7 @@
       },
       {
         "date": "2025-05",
-        "value": 13
+        "value": 15
       },
       {
         "date": "2025-06",
@@ -3604,27 +3604,27 @@
       },
       {
         "date": "2025-09",
-        "value": 52
+        "value": 53
       },
       {
         "date": "2025-10",
-        "value": 38
+        "value": 36
       },
       {
         "date": "2025-11",
-        "value": 55
+        "value": 56
       },
       {
         "date": "2025-12",
-        "value": 34
+        "value": 36
       },
       {
         "date": "2026-01",
-        "value": 46
+        "value": 45
       },
       {
         "date": "2026-02",
-        "value": 56
+        "value": 57
       },
       {
         "date": "2026-03",
@@ -3640,7 +3640,7 @@
       },
       {
         "date": "2026-06",
-        "value": 82
+        "value": 83
       },
       {
         "date": "2026-07",
@@ -3648,11 +3648,11 @@
       },
       {
         "date": "2026-08",
-        "value": 26
+        "value": 27
       },
       {
         "date": "2026-09",
-        "value": 19
+        "value": 18
       }
     ],
     "inventory_management": [
@@ -3690,11 +3690,11 @@
       },
       {
         "date": "2022-05",
-        "value": 23
+        "value": 24
       },
       {
         "date": "2022-06",
-        "value": 23
+        "value": 22
       },
       {
         "date": "2022-07",
@@ -3702,7 +3702,7 @@
       },
       {
         "date": "2022-08",
-        "value": 21
+        "value": 22
       },
       {
         "date": "2022-09",
@@ -3754,11 +3754,11 @@
       },
       {
         "date": "2023-09",
-        "value": 22
+        "value": 23
       },
       {
         "date": "2023-10",
-        "value": 25
+        "value": 24
       },
       {
         "date": "2023-11",
@@ -3782,7 +3782,7 @@
       },
       {
         "date": "2024-04",
-        "value": 28
+        "value": 29
       },
       {
         "date": "2024-05",
@@ -3790,11 +3790,11 @@
       },
       {
         "date": "2024-06",
-        "value": 20
+        "value": 21
       },
       {
         "date": "2024-07",
-        "value": 21
+        "value": 20
       },
       {
         "date": "2024-08",
@@ -3834,7 +3834,7 @@
       },
       {
         "date": "2025-05",
-        "value": 33
+        "value": 34
       },
       {
         "date": "2025-06",
@@ -3870,11 +3870,11 @@
       },
       {
         "date": "2026-02",
-        "value": 92
+        "value": 93
       },
       {
         "date": "2026-03",
-        "value": 71
+        "value": 73
       },
       {
         "date": "2026-04",
@@ -3882,11 +3882,11 @@
       },
       {
         "date": "2026-05",
-        "value": 77
+        "value": 75
       },
       {
         "date": "2026-06",
-        "value": 89
+        "value": 88
       },
       {
         "date": "2026-07",
@@ -3904,11 +3904,11 @@
     "supply_chain_resilience": [
       {
         "date": "2021-09",
-        "value": 6
+        "value": 0
       },
       {
         "date": "2021-10",
-        "value": 1
+        "value": 2
       },
       {
         "date": "2021-11",
@@ -3924,23 +3924,23 @@
       },
       {
         "date": "2022-02",
-        "value": 3
+        "value": 1
       },
       {
         "date": "2022-03",
-        "value": 1
+        "value": 2
       },
       {
         "date": "2022-04",
-        "value": 4
+        "value": 3
       },
       {
         "date": "2022-05",
-        "value": 1
+        "value": 2
       },
       {
         "date": "2022-06",
-        "value": 0
+        "value": 1
       },
       {
         "date": "2022-07",
@@ -3952,43 +3952,43 @@
       },
       {
         "date": "2022-09",
-        "value": 3
+        "value": 1
       },
       {
         "date": "2022-10",
-        "value": 1
-      },
-      {
-        "date": "2022-11",
-        "value": 2
-      },
-      {
-        "date": "2022-12",
-        "value": 0
-      },
-      {
-        "date": "2023-01",
-        "value": 0
-      },
-      {
-        "date": "2023-02",
         "value": 4
       },
       {
+        "date": "2022-11",
+        "value": 3
+      },
+      {
+        "date": "2022-12",
+        "value": 2
+      },
+      {
+        "date": "2023-01",
+        "value": 1
+      },
+      {
+        "date": "2023-02",
+        "value": 3
+      },
+      {
         "date": "2023-03",
-        "value": 0
+        "value": 1
       },
       {
         "date": "2023-04",
-        "value": 1
+        "value": 3
       },
       {
         "date": "2023-05",
-        "value": 0
+        "value": 1
       },
       {
         "date": "2023-06",
-        "value": 1
+        "value": 2
       },
       {
         "date": "2023-07",
@@ -3996,19 +3996,19 @@
       },
       {
         "date": "2023-08",
-        "value": 1
+        "value": 2
       },
       {
         "date": "2023-09",
-        "value": 3
+        "value": 4
       },
       {
         "date": "2023-10",
-        "value": 1
+        "value": 2
       },
       {
         "date": "2023-11",
-        "value": 2
+        "value": 3
       },
       {
         "date": "2023-12",
@@ -4020,11 +4020,11 @@
       },
       {
         "date": "2024-02",
-        "value": 0
+        "value": 3
       },
       {
         "date": "2024-03",
-        "value": 2
+        "value": 0
       },
       {
         "date": "2024-04",
@@ -4036,7 +4036,7 @@
       },
       {
         "date": "2024-06",
-        "value": 1
+        "value": 2
       },
       {
         "date": "2024-07",
@@ -4044,27 +4044,27 @@
       },
       {
         "date": "2024-08",
-        "value": 3
-      },
-      {
-        "date": "2024-09",
-        "value": 4
-      },
-      {
-        "date": "2024-10",
-        "value": 2
-      },
-      {
-        "date": "2024-11",
-        "value": 3
-      },
-      {
-        "date": "2024-12",
         "value": 1
       },
       {
+        "date": "2024-09",
+        "value": 5
+      },
+      {
+        "date": "2024-10",
+        "value": 3
+      },
+      {
+        "date": "2024-11",
+        "value": 4
+      },
+      {
+        "date": "2024-12",
+        "value": 4
+      },
+      {
         "date": "2025-01",
-        "value": 2
+        "value": 4
       },
       {
         "date": "2025-02",
@@ -4076,7 +4076,7 @@
       },
       {
         "date": "2025-04",
-        "value": 8
+        "value": 7
       },
       {
         "date": "2025-05",
@@ -4088,19 +4088,19 @@
       },
       {
         "date": "2025-07",
-        "value": 24
+        "value": 25
       },
       {
         "date": "2025-08",
-        "value": 18
+        "value": 17
       },
       {
         "date": "2025-09",
-        "value": 14
+        "value": 17
       },
       {
         "date": "2025-10",
-        "value": 16
+        "value": 15
       },
       {
         "date": "2025-11",
@@ -4108,19 +4108,19 @@
       },
       {
         "date": "2025-12",
-        "value": 32
+        "value": 33
       },
       {
         "date": "2026-01",
-        "value": 44
+        "value": 46
       },
       {
         "date": "2026-02",
-        "value": 64
+        "value": 65
       },
       {
         "date": "2026-03",
-        "value": 70
+        "value": 72
       },
       {
         "date": "2026-04",
@@ -4128,15 +4128,15 @@
       },
       {
         "date": "2026-05",
-        "value": 79
+        "value": 81
       },
       {
         "date": "2026-06",
-        "value": 84
+        "value": 87
       },
       {
         "date": "2026-07",
-        "value": 41
+        "value": 43
       },
       {
         "date": "2026-08",
@@ -4144,7 +4144,7 @@
       },
       {
         "date": "2026-09",
-        "value": 11
+        "value": 10
       }
     ],
     "robotics_fulfillment": [
@@ -4258,7 +4258,7 @@
       },
       {
         "date": "2023-12",
-        "value": 0
+        "value": 7
       },
       {
         "date": "2024-01",
@@ -4334,11 +4334,11 @@
       },
       {
         "date": "2025-07",
-        "value": 10
+        "value": 12
       },
       {
         "date": "2025-08",
-        "value": 0
+        "value": 7
       },
       {
         "date": "2025-09",
@@ -4350,47 +4350,47 @@
       },
       {
         "date": "2025-11",
-        "value": 10
+        "value": 18
       },
       {
         "date": "2025-12",
-        "value": 0
+        "value": 8
       },
       {
         "date": "2026-01",
-        "value": 31
+        "value": 18
       },
       {
         "date": "2026-02",
-        "value": 31
+        "value": 38
       },
       {
         "date": "2026-03",
-        "value": 60
+        "value": 47
       },
       {
         "date": "2026-04",
-        "value": 67
+        "value": 53
       },
       {
         "date": "2026-05",
-        "value": 74
+        "value": 73
       },
       {
         "date": "2026-06",
-        "value": 74
+        "value": 60
       },
       {
         "date": "2026-07",
-        "value": 41
+        "value": 26
       },
       {
         "date": "2026-08",
-        "value": 0
+        "value": 13
       },
       {
         "date": "2026-09",
-        "value": 11
+        "value": 9
       }
     ]
   }
